@@ -1,4 +1,4 @@
-# LinearSVC_NER
+# Clasificador NER con Linear Support Vector Machine
 
 ### script para generar dataset
 - /dataset/generador_dataset.py
