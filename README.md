@@ -2,12 +2,21 @@
 
 ### script para generar dataset
 - /dataset/generador_dataset.py
+```bash
+$ python generador_dataset.py
+```
 
 ### script para generar serializaciones
 - /ner/ner.py
+```bash
+$ python ner.py
+```
 
 ### script para clasificar oraciones
 - /ner/intent_trainer.py
+```bash
+$ python intent_ner.py
+```
 
 ### En la carpeta ner se encuentran todos los pkl necesarios para la clasificacion de texto
 
