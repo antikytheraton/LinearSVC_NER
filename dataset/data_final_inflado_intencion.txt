@@ -1,0 +1,3323 @@
+0	como te llamas
+0	cual te llamas
+0	como te nombre
+0	cual te nombre
+0	como te nombras
+0	cual te nombras
+0	como te identificas
+0	cual te identificas
+0	como te identidad
+0	cual te identidad
+0	como llamas tu
+0	cual llamas tu
+0	como nombre tu
+0	cual nombre tu
+0	como nombras tu
+0	cual nombras tu
+0	como identificas tu
+0	cual identificas tu
+0	como identidad tu
+0	cual identidad tu
+0	como es tu llamas
+0	cual es tu llamas
+0	como es tu nombre
+0	cual es tu nombre
+0	como es tu nombras
+0	cual es tu nombras
+0	como es tu identificas
+0	cual es tu identificas
+0	como es tu identidad
+0	cual es tu identidad
+1	de donde eres 
+1	de donde provienes
+1	de donde vienes
+1	es tu creador
+1	es tu creado
+1	es tu papa
+1	es tu padre
+1	es tu creo
+2	que poder dime tu
+2	que poder dime ser
+2	que puedes dime tu
+2	que puedes dime ser
+2	que podrias dime tu
+2	que podrias dime ser
+2	que poder di tu
+2	que poder di ser
+2	que puedes di tu
+2	que puedes di ser
+2	que podrias di tu
+2	que podrias di ser
+2	que poder haz tu
+2	que poder haz ser
+2	que puedes haz tu
+2	que puedes haz ser
+2	que podrias haz tu
+2	que podrias haz ser
+2	que poder cuentame tu
+2	que poder cuentame ser
+2	que puedes cuentame tu
+2	que puedes cuentame ser
+2	que podrias cuentame tu
+2	que podrias cuentame ser
+2	que poder inventa tu
+2	que poder inventa ser
+2	que puedes inventa tu
+2	que puedes inventa ser
+2	que podrias inventa tu
+2	que podrias inventa ser
+2	que poder muere tu
+2	que poder muere ser
+2	que puedes muere tu
+2	que puedes muere ser
+2	que podrias muere tu
+2	que podrias muere ser
+2	que poder canta tu
+2	que poder canta ser
+2	que puedes canta tu
+2	que puedes canta ser
+2	que podrias canta tu
+2	que podrias canta ser
+2	que poder habla tu
+2	que poder habla ser
+2	que puedes habla tu
+2	que puedes habla ser
+2	que podrias habla tu
+2	que podrias habla ser
+2	que poder piensa tu
+2	que poder piensa ser
+2	que puedes piensa tu
+2	que puedes piensa ser
+2	que podrias piensa tu
+2	que podrias piensa ser
+2	que poder inventa tu
+2	que poder inventa ser
+2	que puedes inventa tu
+2	que puedes inventa ser
+2	que podrias inventa tu
+2	que podrias inventa ser
+2	cual poder dime tu
+2	cual poder dime ser
+2	cual puedes dime tu
+2	cual puedes dime ser
+2	cual podrias dime tu
+2	cual podrias dime ser
+2	cual poder di tu
+2	cual poder di ser
+2	cual puedes di tu
+2	cual puedes di ser
+2	cual podrias di tu
+2	cual podrias di ser
+2	cual poder haz tu
+2	cual poder haz ser
+2	cual puedes haz tu
+2	cual puedes haz ser
+2	cual podrias haz tu
+2	cual podrias haz ser
+2	cual poder cuentame tu
+2	cual poder cuentame ser
+2	cual puedes cuentame tu
+2	cual puedes cuentame ser
+2	cual podrias cuentame tu
+2	cual podrias cuentame ser
+2	cual poder inventa tu
+2	cual poder inventa ser
+2	cual puedes inventa tu
+2	cual puedes inventa ser
+2	cual podrias inventa tu
+2	cual podrias inventa ser
+2	cual poder muere tu
+2	cual poder muere ser
+2	cual puedes muere tu
+2	cual puedes muere ser
+2	cual podrias muere tu
+2	cual podrias muere ser
+2	cual poder canta tu
+2	cual poder canta ser
+2	cual puedes canta tu
+2	cual puedes canta ser
+2	cual podrias canta tu
+2	cual podrias canta ser
+2	cual poder habla tu
+2	cual poder habla ser
+2	cual puedes habla tu
+2	cual puedes habla ser
+2	cual podrias habla tu
+2	cual podrias habla ser
+2	cual poder piensa tu
+2	cual poder piensa ser
+2	cual puedes piensa tu
+2	cual puedes piensa ser
+2	cual podrias piensa tu
+2	cual podrias piensa ser
+2	cual poder inventa tu
+2	cual poder inventa ser
+2	cual puedes inventa tu
+2	cual puedes inventa ser
+2	cual podrias inventa tu
+2	cual podrias inventa ser
+2	cuales poder dime tu
+2	cuales poder dime ser
+2	cuales puedes dime tu
+2	cuales puedes dime ser
+2	cuales podrias dime tu
+2	cuales podrias dime ser
+2	cuales poder di tu
+2	cuales poder di ser
+2	cuales puedes di tu
+2	cuales puedes di ser
+2	cuales podrias di tu
+2	cuales podrias di ser
+2	cuales poder haz tu
+2	cuales poder haz ser
+2	cuales puedes haz tu
+2	cuales puedes haz ser
+2	cuales podrias haz tu
+2	cuales podrias haz ser
+2	cuales poder cuentame tu
+2	cuales poder cuentame ser
+2	cuales puedes cuentame tu
+2	cuales puedes cuentame ser
+2	cuales podrias cuentame tu
+2	cuales podrias cuentame ser
+2	cuales poder inventa tu
+2	cuales poder inventa ser
+2	cuales puedes inventa tu
+2	cuales puedes inventa ser
+2	cuales podrias inventa tu
+2	cuales podrias inventa ser
+2	cuales poder muere tu
+2	cuales poder muere ser
+2	cuales puedes muere tu
+2	cuales puedes muere ser
+2	cuales podrias muere tu
+2	cuales podrias muere ser
+2	cuales poder canta tu
+2	cuales poder canta ser
+2	cuales puedes canta tu
+2	cuales puedes canta ser
+2	cuales podrias canta tu
+2	cuales podrias canta ser
+2	cuales poder habla tu
+2	cuales poder habla ser
+2	cuales puedes habla tu
+2	cuales puedes habla ser
+2	cuales podrias habla tu
+2	cuales podrias habla ser
+2	cuales poder piensa tu
+2	cuales poder piensa ser
+2	cuales puedes piensa tu
+2	cuales puedes piensa ser
+2	cuales podrias piensa tu
+2	cuales podrias piensa ser
+2	cuales poder inventa tu
+2	cuales poder inventa ser
+2	cuales puedes inventa tu
+2	cuales puedes inventa ser
+2	cuales podrias inventa tu
+2	cuales podrias inventa ser
+2	que cosa poder dime tu
+2	que cosa poder dime ser
+2	que cosa puedes dime tu
+2	que cosa puedes dime ser
+2	que cosa podrias dime tu
+2	que cosa podrias dime ser
+2	que cosa poder di tu
+2	que cosa poder di ser
+2	que cosa puedes di tu
+2	que cosa puedes di ser
+2	que cosa podrias di tu
+2	que cosa podrias di ser
+2	que cosa poder haz tu
+2	que cosa poder haz ser
+2	que cosa puedes haz tu
+2	que cosa puedes haz ser
+2	que cosa podrias haz tu
+2	que cosa podrias haz ser
+2	que cosa poder cuentame tu
+2	que cosa poder cuentame ser
+2	que cosa puedes cuentame tu
+2	que cosa puedes cuentame ser
+2	que cosa podrias cuentame tu
+2	que cosa podrias cuentame ser
+2	que cosa poder inventa tu
+2	que cosa poder inventa ser
+2	que cosa puedes inventa tu
+2	que cosa puedes inventa ser
+2	que cosa podrias inventa tu
+2	que cosa podrias inventa ser
+2	que cosa poder muere tu
+2	que cosa poder muere ser
+2	que cosa puedes muere tu
+2	que cosa puedes muere ser
+2	que cosa podrias muere tu
+2	que cosa podrias muere ser
+2	que cosa poder canta tu
+2	que cosa poder canta ser
+2	que cosa puedes canta tu
+2	que cosa puedes canta ser
+2	que cosa podrias canta tu
+2	que cosa podrias canta ser
+2	que cosa poder habla tu
+2	que cosa poder habla ser
+2	que cosa puedes habla tu
+2	que cosa puedes habla ser
+2	que cosa podrias habla tu
+2	que cosa podrias habla ser
+2	que cosa poder piensa tu
+2	que cosa poder piensa ser
+2	que cosa puedes piensa tu
+2	que cosa puedes piensa ser
+2	que cosa podrias piensa tu
+2	que cosa podrias piensa ser
+2	que cosa poder inventa tu
+2	que cosa poder inventa ser
+2	que cosa puedes inventa tu
+2	que cosa puedes inventa ser
+2	que cosa podrias inventa tu
+2	que cosa podrias inventa ser
+2	que cosas poder dime tu
+2	que cosas poder dime ser
+2	que cosas puedes dime tu
+2	que cosas puedes dime ser
+2	que cosas podrias dime tu
+2	que cosas podrias dime ser
+2	que cosas poder di tu
+2	que cosas poder di ser
+2	que cosas puedes di tu
+2	que cosas puedes di ser
+2	que cosas podrias di tu
+2	que cosas podrias di ser
+2	que cosas poder haz tu
+2	que cosas poder haz ser
+2	que cosas puedes haz tu
+2	que cosas puedes haz ser
+2	que cosas podrias haz tu
+2	que cosas podrias haz ser
+2	que cosas poder cuentame tu
+2	que cosas poder cuentame ser
+2	que cosas puedes cuentame tu
+2	que cosas puedes cuentame ser
+2	que cosas podrias cuentame tu
+2	que cosas podrias cuentame ser
+2	que cosas poder inventa tu
+2	que cosas poder inventa ser
+2	que cosas puedes inventa tu
+2	que cosas puedes inventa ser
+2	que cosas podrias inventa tu
+2	que cosas podrias inventa ser
+2	que cosas poder muere tu
+2	que cosas poder muere ser
+2	que cosas puedes muere tu
+2	que cosas puedes muere ser
+2	que cosas podrias muere tu
+2	que cosas podrias muere ser
+2	que cosas poder canta tu
+2	que cosas poder canta ser
+2	que cosas puedes canta tu
+2	que cosas puedes canta ser
+2	que cosas podrias canta tu
+2	que cosas podrias canta ser
+2	que cosas poder habla tu
+2	que cosas poder habla ser
+2	que cosas puedes habla tu
+2	que cosas puedes habla ser
+2	que cosas podrias habla tu
+2	que cosas podrias habla ser
+2	que cosas poder piensa tu
+2	que cosas poder piensa ser
+2	que cosas puedes piensa tu
+2	que cosas puedes piensa ser
+2	que cosas podrias piensa tu
+2	que cosas podrias piensa ser
+2	que cosas poder inventa tu
+2	que cosas poder inventa ser
+2	que cosas puedes inventa tu
+2	que cosas puedes inventa ser
+2	que cosas podrias inventa tu
+2	que cosas podrias inventa ser
+2	que tarea poder dime tu
+2	que tarea poder dime ser
+2	que tarea puedes dime tu
+2	que tarea puedes dime ser
+2	que tarea podrias dime tu
+2	que tarea podrias dime ser
+2	que tarea poder di tu
+2	que tarea poder di ser
+2	que tarea puedes di tu
+2	que tarea puedes di ser
+2	que tarea podrias di tu
+2	que tarea podrias di ser
+2	que tarea poder haz tu
+2	que tarea poder haz ser
+2	que tarea puedes haz tu
+2	que tarea puedes haz ser
+2	que tarea podrias haz tu
+2	que tarea podrias haz ser
+2	que tarea poder cuentame tu
+2	que tarea poder cuentame ser
+2	que tarea puedes cuentame tu
+2	que tarea puedes cuentame ser
+2	que tarea podrias cuentame tu
+2	que tarea podrias cuentame ser
+2	que tarea poder inventa tu
+2	que tarea poder inventa ser
+2	que tarea puedes inventa tu
+2	que tarea puedes inventa ser
+2	que tarea podrias inventa tu
+2	que tarea podrias inventa ser
+2	que tarea poder muere tu
+2	que tarea poder muere ser
+2	que tarea puedes muere tu
+2	que tarea puedes muere ser
+2	que tarea podrias muere tu
+2	que tarea podrias muere ser
+2	que tarea poder canta tu
+2	que tarea poder canta ser
+2	que tarea puedes canta tu
+2	que tarea puedes canta ser
+2	que tarea podrias canta tu
+2	que tarea podrias canta ser
+2	que tarea poder habla tu
+2	que tarea poder habla ser
+2	que tarea puedes habla tu
+2	que tarea puedes habla ser
+2	que tarea podrias habla tu
+2	que tarea podrias habla ser
+2	que tarea poder piensa tu
+2	que tarea poder piensa ser
+2	que tarea puedes piensa tu
+2	que tarea puedes piensa ser
+2	que tarea podrias piensa tu
+2	que tarea podrias piensa ser
+2	que tarea poder inventa tu
+2	que tarea poder inventa ser
+2	que tarea puedes inventa tu
+2	que tarea puedes inventa ser
+2	que tarea podrias inventa tu
+2	que tarea podrias inventa ser
+2	que tareas poder dime tu
+2	que tareas poder dime ser
+2	que tareas puedes dime tu
+2	que tareas puedes dime ser
+2	que tareas podrias dime tu
+2	que tareas podrias dime ser
+2	que tareas poder di tu
+2	que tareas poder di ser
+2	que tareas puedes di tu
+2	que tareas puedes di ser
+2	que tareas podrias di tu
+2	que tareas podrias di ser
+2	que tareas poder haz tu
+2	que tareas poder haz ser
+2	que tareas puedes haz tu
+2	que tareas puedes haz ser
+2	que tareas podrias haz tu
+2	que tareas podrias haz ser
+2	que tareas poder cuentame tu
+2	que tareas poder cuentame ser
+2	que tareas puedes cuentame tu
+2	que tareas puedes cuentame ser
+2	que tareas podrias cuentame tu
+2	que tareas podrias cuentame ser
+2	que tareas poder inventa tu
+2	que tareas poder inventa ser
+2	que tareas puedes inventa tu
+2	que tareas puedes inventa ser
+2	que tareas podrias inventa tu
+2	que tareas podrias inventa ser
+2	que tareas poder muere tu
+2	que tareas poder muere ser
+2	que tareas puedes muere tu
+2	que tareas puedes muere ser
+2	que tareas podrias muere tu
+2	que tareas podrias muere ser
+2	que tareas poder canta tu
+2	que tareas poder canta ser
+2	que tareas puedes canta tu
+2	que tareas puedes canta ser
+2	que tareas podrias canta tu
+2	que tareas podrias canta ser
+2	que tareas poder habla tu
+2	que tareas poder habla ser
+2	que tareas puedes habla tu
+2	que tareas puedes habla ser
+2	que tareas podrias habla tu
+2	que tareas podrias habla ser
+2	que tareas poder piensa tu
+2	que tareas poder piensa ser
+2	que tareas puedes piensa tu
+2	que tareas puedes piensa ser
+2	que tareas podrias piensa tu
+2	que tareas podrias piensa ser
+2	que tareas poder inventa tu
+2	que tareas poder inventa ser
+2	que tareas puedes inventa tu
+2	que tareas puedes inventa ser
+2	que tareas podrias inventa tu
+2	que tareas podrias inventa ser
+2	que accion poder dime tu
+2	que accion poder dime ser
+2	que accion puedes dime tu
+2	que accion puedes dime ser
+2	que accion podrias dime tu
+2	que accion podrias dime ser
+2	que accion poder di tu
+2	que accion poder di ser
+2	que accion puedes di tu
+2	que accion puedes di ser
+2	que accion podrias di tu
+2	que accion podrias di ser
+2	que accion poder haz tu
+2	que accion poder haz ser
+2	que accion puedes haz tu
+2	que accion puedes haz ser
+2	que accion podrias haz tu
+2	que accion podrias haz ser
+2	que accion poder cuentame tu
+2	que accion poder cuentame ser
+2	que accion puedes cuentame tu
+2	que accion puedes cuentame ser
+2	que accion podrias cuentame tu
+2	que accion podrias cuentame ser
+2	que accion poder inventa tu
+2	que accion poder inventa ser
+2	que accion puedes inventa tu
+2	que accion puedes inventa ser
+2	que accion podrias inventa tu
+2	que accion podrias inventa ser
+2	que accion poder muere tu
+2	que accion poder muere ser
+2	que accion puedes muere tu
+2	que accion puedes muere ser
+2	que accion podrias muere tu
+2	que accion podrias muere ser
+2	que accion poder canta tu
+2	que accion poder canta ser
+2	que accion puedes canta tu
+2	que accion puedes canta ser
+2	que accion podrias canta tu
+2	que accion podrias canta ser
+2	que accion poder habla tu
+2	que accion poder habla ser
+2	que accion puedes habla tu
+2	que accion puedes habla ser
+2	que accion podrias habla tu
+2	que accion podrias habla ser
+2	que accion poder piensa tu
+2	que accion poder piensa ser
+2	que accion puedes piensa tu
+2	que accion puedes piensa ser
+2	que accion podrias piensa tu
+2	que accion podrias piensa ser
+2	que accion poder inventa tu
+2	que accion poder inventa ser
+2	que accion puedes inventa tu
+2	que accion puedes inventa ser
+2	que accion podrias inventa tu
+2	que accion podrias inventa ser
+2	que acciones poder dime tu
+2	que acciones poder dime ser
+2	que acciones puedes dime tu
+2	que acciones puedes dime ser
+2	que acciones podrias dime tu
+2	que acciones podrias dime ser
+2	que acciones poder di tu
+2	que acciones poder di ser
+2	que acciones puedes di tu
+2	que acciones puedes di ser
+2	que acciones podrias di tu
+2	que acciones podrias di ser
+2	que acciones poder haz tu
+2	que acciones poder haz ser
+2	que acciones puedes haz tu
+2	que acciones puedes haz ser
+2	que acciones podrias haz tu
+2	que acciones podrias haz ser
+2	que acciones poder cuentame tu
+2	que acciones poder cuentame ser
+2	que acciones puedes cuentame tu
+2	que acciones puedes cuentame ser
+2	que acciones podrias cuentame tu
+2	que acciones podrias cuentame ser
+2	que acciones poder inventa tu
+2	que acciones poder inventa ser
+2	que acciones puedes inventa tu
+2	que acciones puedes inventa ser
+2	que acciones podrias inventa tu
+2	que acciones podrias inventa ser
+2	que acciones poder muere tu
+2	que acciones poder muere ser
+2	que acciones puedes muere tu
+2	que acciones puedes muere ser
+2	que acciones podrias muere tu
+2	que acciones podrias muere ser
+2	que acciones poder canta tu
+2	que acciones poder canta ser
+2	que acciones puedes canta tu
+2	que acciones puedes canta ser
+2	que acciones podrias canta tu
+2	que acciones podrias canta ser
+2	que acciones poder habla tu
+2	que acciones poder habla ser
+2	que acciones puedes habla tu
+2	que acciones puedes habla ser
+2	que acciones podrias habla tu
+2	que acciones podrias habla ser
+2	que acciones poder piensa tu
+2	que acciones poder piensa ser
+2	que acciones puedes piensa tu
+2	que acciones puedes piensa ser
+2	que acciones podrias piensa tu
+2	que acciones podrias piensa ser
+2	que acciones poder inventa tu
+2	que acciones poder inventa ser
+2	que acciones puedes inventa tu
+2	que acciones puedes inventa ser
+2	que acciones podrias inventa tu
+2	que acciones podrias inventa ser
+2	cual cosa poder dime tu
+2	cual cosa poder dime ser
+2	cual cosa puedes dime tu
+2	cual cosa puedes dime ser
+2	cual cosa podrias dime tu
+2	cual cosa podrias dime ser
+2	cual cosa poder di tu
+2	cual cosa poder di ser
+2	cual cosa puedes di tu
+2	cual cosa puedes di ser
+2	cual cosa podrias di tu
+2	cual cosa podrias di ser
+2	cual cosa poder haz tu
+2	cual cosa poder haz ser
+2	cual cosa puedes haz tu
+2	cual cosa puedes haz ser
+2	cual cosa podrias haz tu
+2	cual cosa podrias haz ser
+2	cual cosa poder cuentame tu
+2	cual cosa poder cuentame ser
+2	cual cosa puedes cuentame tu
+2	cual cosa puedes cuentame ser
+2	cual cosa podrias cuentame tu
+2	cual cosa podrias cuentame ser
+2	cual cosa poder inventa tu
+2	cual cosa poder inventa ser
+2	cual cosa puedes inventa tu
+2	cual cosa puedes inventa ser
+2	cual cosa podrias inventa tu
+2	cual cosa podrias inventa ser
+2	cual cosa poder muere tu
+2	cual cosa poder muere ser
+2	cual cosa puedes muere tu
+2	cual cosa puedes muere ser
+2	cual cosa podrias muere tu
+2	cual cosa podrias muere ser
+2	cual cosa poder canta tu
+2	cual cosa poder canta ser
+2	cual cosa puedes canta tu
+2	cual cosa puedes canta ser
+2	cual cosa podrias canta tu
+2	cual cosa podrias canta ser
+2	cual cosa poder habla tu
+2	cual cosa poder habla ser
+2	cual cosa puedes habla tu
+2	cual cosa puedes habla ser
+2	cual cosa podrias habla tu
+2	cual cosa podrias habla ser
+2	cual cosa poder piensa tu
+2	cual cosa poder piensa ser
+2	cual cosa puedes piensa tu
+2	cual cosa puedes piensa ser
+2	cual cosa podrias piensa tu
+2	cual cosa podrias piensa ser
+2	cual cosa poder inventa tu
+2	cual cosa poder inventa ser
+2	cual cosa puedes inventa tu
+2	cual cosa puedes inventa ser
+2	cual cosa podrias inventa tu
+2	cual cosa podrias inventa ser
+2	cual cosas poder dime tu
+2	cual cosas poder dime ser
+2	cual cosas puedes dime tu
+2	cual cosas puedes dime ser
+2	cual cosas podrias dime tu
+2	cual cosas podrias dime ser
+2	cual cosas poder di tu
+2	cual cosas poder di ser
+2	cual cosas puedes di tu
+2	cual cosas puedes di ser
+2	cual cosas podrias di tu
+2	cual cosas podrias di ser
+2	cual cosas poder haz tu
+2	cual cosas poder haz ser
+2	cual cosas puedes haz tu
+2	cual cosas puedes haz ser
+2	cual cosas podrias haz tu
+2	cual cosas podrias haz ser
+2	cual cosas poder cuentame tu
+2	cual cosas poder cuentame ser
+2	cual cosas puedes cuentame tu
+2	cual cosas puedes cuentame ser
+2	cual cosas podrias cuentame tu
+2	cual cosas podrias cuentame ser
+2	cual cosas poder inventa tu
+2	cual cosas poder inventa ser
+2	cual cosas puedes inventa tu
+2	cual cosas puedes inventa ser
+2	cual cosas podrias inventa tu
+2	cual cosas podrias inventa ser
+2	cual cosas poder muere tu
+2	cual cosas poder muere ser
+2	cual cosas puedes muere tu
+2	cual cosas puedes muere ser
+2	cual cosas podrias muere tu
+2	cual cosas podrias muere ser
+2	cual cosas poder canta tu
+2	cual cosas poder canta ser
+2	cual cosas puedes canta tu
+2	cual cosas puedes canta ser
+2	cual cosas podrias canta tu
+2	cual cosas podrias canta ser
+2	cual cosas poder habla tu
+2	cual cosas poder habla ser
+2	cual cosas puedes habla tu
+2	cual cosas puedes habla ser
+2	cual cosas podrias habla tu
+2	cual cosas podrias habla ser
+2	cual cosas poder piensa tu
+2	cual cosas poder piensa ser
+2	cual cosas puedes piensa tu
+2	cual cosas puedes piensa ser
+2	cual cosas podrias piensa tu
+2	cual cosas podrias piensa ser
+2	cual cosas poder inventa tu
+2	cual cosas poder inventa ser
+2	cual cosas puedes inventa tu
+2	cual cosas puedes inventa ser
+2	cual cosas podrias inventa tu
+2	cual cosas podrias inventa ser
+2	cual tarea poder dime tu
+2	cual tarea poder dime ser
+2	cual tarea puedes dime tu
+2	cual tarea puedes dime ser
+2	cual tarea podrias dime tu
+2	cual tarea podrias dime ser
+2	cual tarea poder di tu
+2	cual tarea poder di ser
+2	cual tarea puedes di tu
+2	cual tarea puedes di ser
+2	cual tarea podrias di tu
+2	cual tarea podrias di ser
+2	cual tarea poder haz tu
+2	cual tarea poder haz ser
+2	cual tarea puedes haz tu
+2	cual tarea puedes haz ser
+2	cual tarea podrias haz tu
+2	cual tarea podrias haz ser
+2	cual tarea poder cuentame tu
+2	cual tarea poder cuentame ser
+2	cual tarea puedes cuentame tu
+2	cual tarea puedes cuentame ser
+2	cual tarea podrias cuentame tu
+2	cual tarea podrias cuentame ser
+2	cual tarea poder inventa tu
+2	cual tarea poder inventa ser
+2	cual tarea puedes inventa tu
+2	cual tarea puedes inventa ser
+2	cual tarea podrias inventa tu
+2	cual tarea podrias inventa ser
+2	cual tarea poder muere tu
+2	cual tarea poder muere ser
+2	cual tarea puedes muere tu
+2	cual tarea puedes muere ser
+2	cual tarea podrias muere tu
+2	cual tarea podrias muere ser
+2	cual tarea poder canta tu
+2	cual tarea poder canta ser
+2	cual tarea puedes canta tu
+2	cual tarea puedes canta ser
+2	cual tarea podrias canta tu
+2	cual tarea podrias canta ser
+2	cual tarea poder habla tu
+2	cual tarea poder habla ser
+2	cual tarea puedes habla tu
+2	cual tarea puedes habla ser
+2	cual tarea podrias habla tu
+2	cual tarea podrias habla ser
+2	cual tarea poder piensa tu
+2	cual tarea poder piensa ser
+2	cual tarea puedes piensa tu
+2	cual tarea puedes piensa ser
+2	cual tarea podrias piensa tu
+2	cual tarea podrias piensa ser
+2	cual tarea poder inventa tu
+2	cual tarea poder inventa ser
+2	cual tarea puedes inventa tu
+2	cual tarea puedes inventa ser
+2	cual tarea podrias inventa tu
+2	cual tarea podrias inventa ser
+2	cual tareas poder dime tu
+2	cual tareas poder dime ser
+2	cual tareas puedes dime tu
+2	cual tareas puedes dime ser
+2	cual tareas podrias dime tu
+2	cual tareas podrias dime ser
+2	cual tareas poder di tu
+2	cual tareas poder di ser
+2	cual tareas puedes di tu
+2	cual tareas puedes di ser
+2	cual tareas podrias di tu
+2	cual tareas podrias di ser
+2	cual tareas poder haz tu
+2	cual tareas poder haz ser
+2	cual tareas puedes haz tu
+2	cual tareas puedes haz ser
+2	cual tareas podrias haz tu
+2	cual tareas podrias haz ser
+2	cual tareas poder cuentame tu
+2	cual tareas poder cuentame ser
+2	cual tareas puedes cuentame tu
+2	cual tareas puedes cuentame ser
+2	cual tareas podrias cuentame tu
+2	cual tareas podrias cuentame ser
+2	cual tareas poder inventa tu
+2	cual tareas poder inventa ser
+2	cual tareas puedes inventa tu
+2	cual tareas puedes inventa ser
+2	cual tareas podrias inventa tu
+2	cual tareas podrias inventa ser
+2	cual tareas poder muere tu
+2	cual tareas poder muere ser
+2	cual tareas puedes muere tu
+2	cual tareas puedes muere ser
+2	cual tareas podrias muere tu
+2	cual tareas podrias muere ser
+2	cual tareas poder canta tu
+2	cual tareas poder canta ser
+2	cual tareas puedes canta tu
+2	cual tareas puedes canta ser
+2	cual tareas podrias canta tu
+2	cual tareas podrias canta ser
+2	cual tareas poder habla tu
+2	cual tareas poder habla ser
+2	cual tareas puedes habla tu
+2	cual tareas puedes habla ser
+2	cual tareas podrias habla tu
+2	cual tareas podrias habla ser
+2	cual tareas poder piensa tu
+2	cual tareas poder piensa ser
+2	cual tareas puedes piensa tu
+2	cual tareas puedes piensa ser
+2	cual tareas podrias piensa tu
+2	cual tareas podrias piensa ser
+2	cual tareas poder inventa tu
+2	cual tareas poder inventa ser
+2	cual tareas puedes inventa tu
+2	cual tareas puedes inventa ser
+2	cual tareas podrias inventa tu
+2	cual tareas podrias inventa ser
+2	cual accion poder dime tu
+2	cual accion poder dime ser
+2	cual accion puedes dime tu
+2	cual accion puedes dime ser
+2	cual accion podrias dime tu
+2	cual accion podrias dime ser
+2	cual accion poder di tu
+2	cual accion poder di ser
+2	cual accion puedes di tu
+2	cual accion puedes di ser
+2	cual accion podrias di tu
+2	cual accion podrias di ser
+2	cual accion poder haz tu
+2	cual accion poder haz ser
+2	cual accion puedes haz tu
+2	cual accion puedes haz ser
+2	cual accion podrias haz tu
+2	cual accion podrias haz ser
+2	cual accion poder cuentame tu
+2	cual accion poder cuentame ser
+2	cual accion puedes cuentame tu
+2	cual accion puedes cuentame ser
+2	cual accion podrias cuentame tu
+2	cual accion podrias cuentame ser
+2	cual accion poder inventa tu
+2	cual accion poder inventa ser
+2	cual accion puedes inventa tu
+2	cual accion puedes inventa ser
+2	cual accion podrias inventa tu
+2	cual accion podrias inventa ser
+2	cual accion poder muere tu
+2	cual accion poder muere ser
+2	cual accion puedes muere tu
+2	cual accion puedes muere ser
+2	cual accion podrias muere tu
+2	cual accion podrias muere ser
+2	cual accion poder canta tu
+2	cual accion poder canta ser
+2	cual accion puedes canta tu
+2	cual accion puedes canta ser
+2	cual accion podrias canta tu
+2	cual accion podrias canta ser
+2	cual accion poder habla tu
+2	cual accion poder habla ser
+2	cual accion puedes habla tu
+2	cual accion puedes habla ser
+2	cual accion podrias habla tu
+2	cual accion podrias habla ser
+2	cual accion poder piensa tu
+2	cual accion poder piensa ser
+2	cual accion puedes piensa tu
+2	cual accion puedes piensa ser
+2	cual accion podrias piensa tu
+2	cual accion podrias piensa ser
+2	cual accion poder inventa tu
+2	cual accion poder inventa ser
+2	cual accion puedes inventa tu
+2	cual accion puedes inventa ser
+2	cual accion podrias inventa tu
+2	cual accion podrias inventa ser
+2	cual acciones poder dime tu
+2	cual acciones poder dime ser
+2	cual acciones puedes dime tu
+2	cual acciones puedes dime ser
+2	cual acciones podrias dime tu
+2	cual acciones podrias dime ser
+2	cual acciones poder di tu
+2	cual acciones poder di ser
+2	cual acciones puedes di tu
+2	cual acciones puedes di ser
+2	cual acciones podrias di tu
+2	cual acciones podrias di ser
+2	cual acciones poder haz tu
+2	cual acciones poder haz ser
+2	cual acciones puedes haz tu
+2	cual acciones puedes haz ser
+2	cual acciones podrias haz tu
+2	cual acciones podrias haz ser
+2	cual acciones poder cuentame tu
+2	cual acciones poder cuentame ser
+2	cual acciones puedes cuentame tu
+2	cual acciones puedes cuentame ser
+2	cual acciones podrias cuentame tu
+2	cual acciones podrias cuentame ser
+2	cual acciones poder inventa tu
+2	cual acciones poder inventa ser
+2	cual acciones puedes inventa tu
+2	cual acciones puedes inventa ser
+2	cual acciones podrias inventa tu
+2	cual acciones podrias inventa ser
+2	cual acciones poder muere tu
+2	cual acciones poder muere ser
+2	cual acciones puedes muere tu
+2	cual acciones puedes muere ser
+2	cual acciones podrias muere tu
+2	cual acciones podrias muere ser
+2	cual acciones poder canta tu
+2	cual acciones poder canta ser
+2	cual acciones puedes canta tu
+2	cual acciones puedes canta ser
+2	cual acciones podrias canta tu
+2	cual acciones podrias canta ser
+2	cual acciones poder habla tu
+2	cual acciones poder habla ser
+2	cual acciones puedes habla tu
+2	cual acciones puedes habla ser
+2	cual acciones podrias habla tu
+2	cual acciones podrias habla ser
+2	cual acciones poder piensa tu
+2	cual acciones poder piensa ser
+2	cual acciones puedes piensa tu
+2	cual acciones puedes piensa ser
+2	cual acciones podrias piensa tu
+2	cual acciones podrias piensa ser
+2	cual acciones poder inventa tu
+2	cual acciones poder inventa ser
+2	cual acciones puedes inventa tu
+2	cual acciones puedes inventa ser
+2	cual acciones podrias inventa tu
+2	cual acciones podrias inventa ser
+2	cuales cosa poder dime tu
+2	cuales cosa poder dime ser
+2	cuales cosa puedes dime tu
+2	cuales cosa puedes dime ser
+2	cuales cosa podrias dime tu
+2	cuales cosa podrias dime ser
+2	cuales cosa poder di tu
+2	cuales cosa poder di ser
+2	cuales cosa puedes di tu
+2	cuales cosa puedes di ser
+2	cuales cosa podrias di tu
+2	cuales cosa podrias di ser
+2	cuales cosa poder haz tu
+2	cuales cosa poder haz ser
+2	cuales cosa puedes haz tu
+2	cuales cosa puedes haz ser
+2	cuales cosa podrias haz tu
+2	cuales cosa podrias haz ser
+2	cuales cosa poder cuentame tu
+2	cuales cosa poder cuentame ser
+2	cuales cosa puedes cuentame tu
+2	cuales cosa puedes cuentame ser
+2	cuales cosa podrias cuentame tu
+2	cuales cosa podrias cuentame ser
+2	cuales cosa poder inventa tu
+2	cuales cosa poder inventa ser
+2	cuales cosa puedes inventa tu
+2	cuales cosa puedes inventa ser
+2	cuales cosa podrias inventa tu
+2	cuales cosa podrias inventa ser
+2	cuales cosa poder muere tu
+2	cuales cosa poder muere ser
+2	cuales cosa puedes muere tu
+2	cuales cosa puedes muere ser
+2	cuales cosa podrias muere tu
+2	cuales cosa podrias muere ser
+2	cuales cosa poder canta tu
+2	cuales cosa poder canta ser
+2	cuales cosa puedes canta tu
+2	cuales cosa puedes canta ser
+2	cuales cosa podrias canta tu
+2	cuales cosa podrias canta ser
+2	cuales cosa poder habla tu
+2	cuales cosa poder habla ser
+2	cuales cosa puedes habla tu
+2	cuales cosa puedes habla ser
+2	cuales cosa podrias habla tu
+2	cuales cosa podrias habla ser
+2	cuales cosa poder piensa tu
+2	cuales cosa poder piensa ser
+2	cuales cosa puedes piensa tu
+2	cuales cosa puedes piensa ser
+2	cuales cosa podrias piensa tu
+2	cuales cosa podrias piensa ser
+2	cuales cosa poder inventa tu
+2	cuales cosa poder inventa ser
+2	cuales cosa puedes inventa tu
+2	cuales cosa puedes inventa ser
+2	cuales cosa podrias inventa tu
+2	cuales cosa podrias inventa ser
+2	cuales cosas poder dime tu
+2	cuales cosas poder dime ser
+2	cuales cosas puedes dime tu
+2	cuales cosas puedes dime ser
+2	cuales cosas podrias dime tu
+2	cuales cosas podrias dime ser
+2	cuales cosas poder di tu
+2	cuales cosas poder di ser
+2	cuales cosas puedes di tu
+2	cuales cosas puedes di ser
+2	cuales cosas podrias di tu
+2	cuales cosas podrias di ser
+2	cuales cosas poder haz tu
+2	cuales cosas poder haz ser
+2	cuales cosas puedes haz tu
+2	cuales cosas puedes haz ser
+2	cuales cosas podrias haz tu
+2	cuales cosas podrias haz ser
+2	cuales cosas poder cuentame tu
+2	cuales cosas poder cuentame ser
+2	cuales cosas puedes cuentame tu
+2	cuales cosas puedes cuentame ser
+2	cuales cosas podrias cuentame tu
+2	cuales cosas podrias cuentame ser
+2	cuales cosas poder inventa tu
+2	cuales cosas poder inventa ser
+2	cuales cosas puedes inventa tu
+2	cuales cosas puedes inventa ser
+2	cuales cosas podrias inventa tu
+2	cuales cosas podrias inventa ser
+2	cuales cosas poder muere tu
+2	cuales cosas poder muere ser
+2	cuales cosas puedes muere tu
+2	cuales cosas puedes muere ser
+2	cuales cosas podrias muere tu
+2	cuales cosas podrias muere ser
+2	cuales cosas poder canta tu
+2	cuales cosas poder canta ser
+2	cuales cosas puedes canta tu
+2	cuales cosas puedes canta ser
+2	cuales cosas podrias canta tu
+2	cuales cosas podrias canta ser
+2	cuales cosas poder habla tu
+2	cuales cosas poder habla ser
+2	cuales cosas puedes habla tu
+2	cuales cosas puedes habla ser
+2	cuales cosas podrias habla tu
+2	cuales cosas podrias habla ser
+2	cuales cosas poder piensa tu
+2	cuales cosas poder piensa ser
+2	cuales cosas puedes piensa tu
+2	cuales cosas puedes piensa ser
+2	cuales cosas podrias piensa tu
+2	cuales cosas podrias piensa ser
+2	cuales cosas poder inventa tu
+2	cuales cosas poder inventa ser
+2	cuales cosas puedes inventa tu
+2	cuales cosas puedes inventa ser
+2	cuales cosas podrias inventa tu
+2	cuales cosas podrias inventa ser
+2	cuales tarea poder dime tu
+2	cuales tarea poder dime ser
+2	cuales tarea puedes dime tu
+2	cuales tarea puedes dime ser
+2	cuales tarea podrias dime tu
+2	cuales tarea podrias dime ser
+2	cuales tarea poder di tu
+2	cuales tarea poder di ser
+2	cuales tarea puedes di tu
+2	cuales tarea puedes di ser
+2	cuales tarea podrias di tu
+2	cuales tarea podrias di ser
+2	cuales tarea poder haz tu
+2	cuales tarea poder haz ser
+2	cuales tarea puedes haz tu
+2	cuales tarea puedes haz ser
+2	cuales tarea podrias haz tu
+2	cuales tarea podrias haz ser
+2	cuales tarea poder cuentame tu
+2	cuales tarea poder cuentame ser
+2	cuales tarea puedes cuentame tu
+2	cuales tarea puedes cuentame ser
+2	cuales tarea podrias cuentame tu
+2	cuales tarea podrias cuentame ser
+2	cuales tarea poder inventa tu
+2	cuales tarea poder inventa ser
+2	cuales tarea puedes inventa tu
+2	cuales tarea puedes inventa ser
+2	cuales tarea podrias inventa tu
+2	cuales tarea podrias inventa ser
+2	cuales tarea poder muere tu
+2	cuales tarea poder muere ser
+2	cuales tarea puedes muere tu
+2	cuales tarea puedes muere ser
+2	cuales tarea podrias muere tu
+2	cuales tarea podrias muere ser
+2	cuales tarea poder canta tu
+2	cuales tarea poder canta ser
+2	cuales tarea puedes canta tu
+2	cuales tarea puedes canta ser
+2	cuales tarea podrias canta tu
+2	cuales tarea podrias canta ser
+2	cuales tarea poder habla tu
+2	cuales tarea poder habla ser
+2	cuales tarea puedes habla tu
+2	cuales tarea puedes habla ser
+2	cuales tarea podrias habla tu
+2	cuales tarea podrias habla ser
+2	cuales tarea poder piensa tu
+2	cuales tarea poder piensa ser
+2	cuales tarea puedes piensa tu
+2	cuales tarea puedes piensa ser
+2	cuales tarea podrias piensa tu
+2	cuales tarea podrias piensa ser
+2	cuales tarea poder inventa tu
+2	cuales tarea poder inventa ser
+2	cuales tarea puedes inventa tu
+2	cuales tarea puedes inventa ser
+2	cuales tarea podrias inventa tu
+2	cuales tarea podrias inventa ser
+2	cuales tareas poder dime tu
+2	cuales tareas poder dime ser
+2	cuales tareas puedes dime tu
+2	cuales tareas puedes dime ser
+2	cuales tareas podrias dime tu
+2	cuales tareas podrias dime ser
+2	cuales tareas poder di tu
+2	cuales tareas poder di ser
+2	cuales tareas puedes di tu
+2	cuales tareas puedes di ser
+2	cuales tareas podrias di tu
+2	cuales tareas podrias di ser
+2	cuales tareas poder haz tu
+2	cuales tareas poder haz ser
+2	cuales tareas puedes haz tu
+2	cuales tareas puedes haz ser
+2	cuales tareas podrias haz tu
+2	cuales tareas podrias haz ser
+2	cuales tareas poder cuentame tu
+2	cuales tareas poder cuentame ser
+2	cuales tareas puedes cuentame tu
+2	cuales tareas puedes cuentame ser
+2	cuales tareas podrias cuentame tu
+2	cuales tareas podrias cuentame ser
+2	cuales tareas poder inventa tu
+2	cuales tareas poder inventa ser
+2	cuales tareas puedes inventa tu
+2	cuales tareas puedes inventa ser
+2	cuales tareas podrias inventa tu
+2	cuales tareas podrias inventa ser
+2	cuales tareas poder muere tu
+2	cuales tareas poder muere ser
+2	cuales tareas puedes muere tu
+2	cuales tareas puedes muere ser
+2	cuales tareas podrias muere tu
+2	cuales tareas podrias muere ser
+2	cuales tareas poder canta tu
+2	cuales tareas poder canta ser
+2	cuales tareas puedes canta tu
+2	cuales tareas puedes canta ser
+2	cuales tareas podrias canta tu
+2	cuales tareas podrias canta ser
+2	cuales tareas poder habla tu
+2	cuales tareas poder habla ser
+2	cuales tareas puedes habla tu
+2	cuales tareas puedes habla ser
+2	cuales tareas podrias habla tu
+2	cuales tareas podrias habla ser
+2	cuales tareas poder piensa tu
+2	cuales tareas poder piensa ser
+2	cuales tareas puedes piensa tu
+2	cuales tareas puedes piensa ser
+2	cuales tareas podrias piensa tu
+2	cuales tareas podrias piensa ser
+2	cuales tareas poder inventa tu
+2	cuales tareas poder inventa ser
+2	cuales tareas puedes inventa tu
+2	cuales tareas puedes inventa ser
+2	cuales tareas podrias inventa tu
+2	cuales tareas podrias inventa ser
+2	cuales accion poder dime tu
+2	cuales accion poder dime ser
+2	cuales accion puedes dime tu
+2	cuales accion puedes dime ser
+2	cuales accion podrias dime tu
+2	cuales accion podrias dime ser
+2	cuales accion poder di tu
+2	cuales accion poder di ser
+2	cuales accion puedes di tu
+2	cuales accion puedes di ser
+2	cuales accion podrias di tu
+2	cuales accion podrias di ser
+2	cuales accion poder haz tu
+2	cuales accion poder haz ser
+2	cuales accion puedes haz tu
+2	cuales accion puedes haz ser
+2	cuales accion podrias haz tu
+2	cuales accion podrias haz ser
+2	cuales accion poder cuentame tu
+2	cuales accion poder cuentame ser
+2	cuales accion puedes cuentame tu
+2	cuales accion puedes cuentame ser
+2	cuales accion podrias cuentame tu
+2	cuales accion podrias cuentame ser
+2	cuales accion poder inventa tu
+2	cuales accion poder inventa ser
+2	cuales accion puedes inventa tu
+2	cuales accion puedes inventa ser
+2	cuales accion podrias inventa tu
+2	cuales accion podrias inventa ser
+2	cuales accion poder muere tu
+2	cuales accion poder muere ser
+2	cuales accion puedes muere tu
+2	cuales accion puedes muere ser
+2	cuales accion podrias muere tu
+2	cuales accion podrias muere ser
+2	cuales accion poder canta tu
+2	cuales accion poder canta ser
+2	cuales accion puedes canta tu
+2	cuales accion puedes canta ser
+2	cuales accion podrias canta tu
+2	cuales accion podrias canta ser
+2	cuales accion poder habla tu
+2	cuales accion poder habla ser
+2	cuales accion puedes habla tu
+2	cuales accion puedes habla ser
+2	cuales accion podrias habla tu
+2	cuales accion podrias habla ser
+2	cuales accion poder piensa tu
+2	cuales accion poder piensa ser
+2	cuales accion puedes piensa tu
+2	cuales accion puedes piensa ser
+2	cuales accion podrias piensa tu
+2	cuales accion podrias piensa ser
+2	cuales accion poder inventa tu
+2	cuales accion poder inventa ser
+2	cuales accion puedes inventa tu
+2	cuales accion puedes inventa ser
+2	cuales accion podrias inventa tu
+2	cuales accion podrias inventa ser
+2	cuales acciones poder dime tu
+2	cuales acciones poder dime ser
+2	cuales acciones puedes dime tu
+2	cuales acciones puedes dime ser
+2	cuales acciones podrias dime tu
+2	cuales acciones podrias dime ser
+2	cuales acciones poder di tu
+2	cuales acciones poder di ser
+2	cuales acciones puedes di tu
+2	cuales acciones puedes di ser
+2	cuales acciones podrias di tu
+2	cuales acciones podrias di ser
+2	cuales acciones poder haz tu
+2	cuales acciones poder haz ser
+2	cuales acciones puedes haz tu
+2	cuales acciones puedes haz ser
+2	cuales acciones podrias haz tu
+2	cuales acciones podrias haz ser
+2	cuales acciones poder cuentame tu
+2	cuales acciones poder cuentame ser
+2	cuales acciones puedes cuentame tu
+2	cuales acciones puedes cuentame ser
+2	cuales acciones podrias cuentame tu
+2	cuales acciones podrias cuentame ser
+2	cuales acciones poder inventa tu
+2	cuales acciones poder inventa ser
+2	cuales acciones puedes inventa tu
+2	cuales acciones puedes inventa ser
+2	cuales acciones podrias inventa tu
+2	cuales acciones podrias inventa ser
+2	cuales acciones poder muere tu
+2	cuales acciones poder muere ser
+2	cuales acciones puedes muere tu
+2	cuales acciones puedes muere ser
+2	cuales acciones podrias muere tu
+2	cuales acciones podrias muere ser
+2	cuales acciones poder canta tu
+2	cuales acciones poder canta ser
+2	cuales acciones puedes canta tu
+2	cuales acciones puedes canta ser
+2	cuales acciones podrias canta tu
+2	cuales acciones podrias canta ser
+2	cuales acciones poder habla tu
+2	cuales acciones poder habla ser
+2	cuales acciones puedes habla tu
+2	cuales acciones puedes habla ser
+2	cuales acciones podrias habla tu
+2	cuales acciones podrias habla ser
+2	cuales acciones poder piensa tu
+2	cuales acciones poder piensa ser
+2	cuales acciones puedes piensa tu
+2	cuales acciones puedes piensa ser
+2	cuales acciones podrias piensa tu
+2	cuales acciones podrias piensa ser
+2	cuales acciones poder inventa tu
+2	cuales acciones poder inventa ser
+2	cuales acciones puedes inventa tu
+2	cuales acciones puedes inventa ser
+2	cuales acciones podrias inventa tu
+2	cuales acciones podrias inventa ser
+2	que dime tu
+2	que dime ser
+2	que di tu
+2	que di ser
+2	que haz tu
+2	que haz ser
+2	que cuentame tu
+2	que cuentame ser
+2	que inventa tu
+2	que inventa ser
+2	que muere tu
+2	que muere ser
+2	que canta tu
+2	que canta ser
+2	que habla tu
+2	que habla ser
+2	que piensa tu
+2	que piensa ser
+2	que inventa tu
+2	que inventa ser
+2	cual dime tu
+2	cual dime ser
+2	cual di tu
+2	cual di ser
+2	cual haz tu
+2	cual haz ser
+2	cual cuentame tu
+2	cual cuentame ser
+2	cual inventa tu
+2	cual inventa ser
+2	cual muere tu
+2	cual muere ser
+2	cual canta tu
+2	cual canta ser
+2	cual habla tu
+2	cual habla ser
+2	cual piensa tu
+2	cual piensa ser
+2	cual inventa tu
+2	cual inventa ser
+2	cuales dime tu
+2	cuales dime ser
+2	cuales di tu
+2	cuales di ser
+2	cuales haz tu
+2	cuales haz ser
+2	cuales cuentame tu
+2	cuales cuentame ser
+2	cuales inventa tu
+2	cuales inventa ser
+2	cuales muere tu
+2	cuales muere ser
+2	cuales canta tu
+2	cuales canta ser
+2	cuales habla tu
+2	cuales habla ser
+2	cuales piensa tu
+2	cuales piensa ser
+2	cuales inventa tu
+2	cuales inventa ser
+2	que poder dime
+2	que puedes dime
+2	que podrias dime
+2	que poder di
+2	que puedes di
+2	que podrias di
+2	que poder haz
+2	que puedes haz
+2	que podrias haz
+2	que poder cuentame
+2	que puedes cuentame
+2	que podrias cuentame
+2	que poder inventa
+2	que puedes inventa
+2	que podrias inventa
+2	que poder muere
+2	que puedes muere
+2	que podrias muere
+2	que poder canta
+2	que puedes canta
+2	que podrias canta
+2	que poder habla
+2	que puedes habla
+2	que podrias habla
+2	que poder piensa
+2	que puedes piensa
+2	que podrias piensa
+2	que poder inventa
+2	que puedes inventa
+2	que podrias inventa
+2	cual poder dime
+2	cual puedes dime
+2	cual podrias dime
+2	cual poder di
+2	cual puedes di
+2	cual podrias di
+2	cual poder haz
+2	cual puedes haz
+2	cual podrias haz
+2	cual poder cuentame
+2	cual puedes cuentame
+2	cual podrias cuentame
+2	cual poder inventa
+2	cual puedes inventa
+2	cual podrias inventa
+2	cual poder muere
+2	cual puedes muere
+2	cual podrias muere
+2	cual poder canta
+2	cual puedes canta
+2	cual podrias canta
+2	cual poder habla
+2	cual puedes habla
+2	cual podrias habla
+2	cual poder piensa
+2	cual puedes piensa
+2	cual podrias piensa
+2	cual poder inventa
+2	cual puedes inventa
+2	cual podrias inventa
+2	cuales poder dime
+2	cuales puedes dime
+2	cuales podrias dime
+2	cuales poder di
+2	cuales puedes di
+2	cuales podrias di
+2	cuales poder haz
+2	cuales puedes haz
+2	cuales podrias haz
+2	cuales poder cuentame
+2	cuales puedes cuentame
+2	cuales podrias cuentame
+2	cuales poder inventa
+2	cuales puedes inventa
+2	cuales podrias inventa
+2	cuales poder muere
+2	cuales puedes muere
+2	cuales podrias muere
+2	cuales poder canta
+2	cuales puedes canta
+2	cuales podrias canta
+2	cuales poder habla
+2	cuales puedes habla
+2	cuales podrias habla
+2	cuales poder piensa
+2	cuales puedes piensa
+2	cuales podrias piensa
+2	cuales poder inventa
+2	cuales puedes inventa
+2	cuales podrias inventa
+3	hola
+3	holi
+3	hi
+3	hello
+3	holaaaaaaa
+3	holiiiii
+3	hao
+3	saludos
+3	hola HOLA
+3	holi HOLA
+3	hi HOLA
+3	hello HOLA
+3	holaaaaaaa HOLA
+3	holiiiii HOLA
+3	hao HOLA
+3	saludos HOLA
+3	bot hola
+3	chatbot hola
+3	but hola
+3	robot hola
+3	papu hola
+3	amigo hola
+3	dude hola
+3	bot holi
+3	chatbot holi
+3	but holi
+3	robot holi
+3	papu holi
+3	amigo holi
+3	dude holi
+3	bot hi
+3	chatbot hi
+3	but hi
+3	robot hi
+3	papu hi
+3	amigo hi
+3	dude hi
+3	bot hello
+3	chatbot hello
+3	but hello
+3	robot hello
+3	papu hello
+3	amigo hello
+3	dude hello
+3	bot holaaaaaaa
+3	chatbot holaaaaaaa
+3	but holaaaaaaa
+3	robot holaaaaaaa
+3	papu holaaaaaaa
+3	amigo holaaaaaaa
+3	dude holaaaaaaa
+3	bot holiiiii
+3	chatbot holiiiii
+3	but holiiiii
+3	robot holiiiii
+3	papu holiiiii
+3	amigo holiiiii
+3	dude holiiiii
+3	bot hao
+3	chatbot hao
+3	but hao
+3	robot hao
+3	papu hao
+3	amigo hao
+3	dude hao
+3	bot saludos
+3	chatbot saludos
+3	but saludos
+3	robot saludos
+3	papu saludos
+3	amigo saludos
+3	dude saludos
+3	hola bot
+3	hola chatbot
+3	hola but
+3	hola robot
+3	hola papu
+3	hola amigo
+3	hola dude
+3	holi bot
+3	holi chatbot
+3	holi but
+3	holi robot
+3	holi papu
+3	holi amigo
+3	holi dude
+3	hi bot
+3	hi chatbot
+3	hi but
+3	hi robot
+3	hi papu
+3	hi amigo
+3	hi dude
+3	hello bot
+3	hello chatbot
+3	hello but
+3	hello robot
+3	hello papu
+3	hello amigo
+3	hello dude
+3	holaaaaaaa bot
+3	holaaaaaaa chatbot
+3	holaaaaaaa but
+3	holaaaaaaa robot
+3	holaaaaaaa papu
+3	holaaaaaaa amigo
+3	holaaaaaaa dude
+3	holiiiii bot
+3	holiiiii chatbot
+3	holiiiii but
+3	holiiiii robot
+3	holiiiii papu
+3	holiiiii amigo
+3	holiiiii dude
+3	hao bot
+3	hao chatbot
+3	hao but
+3	hao robot
+3	hao papu
+3	hao amigo
+3	hao dude
+3	saludos bot
+3	saludos chatbot
+3	saludos but
+3	saludos robot
+3	saludos papu
+3	saludos amigo
+3	saludos dude
+3	que onda bot
+3	que pex bot
+3	que peduqui bot
+3	que hay bot
+3	que tal bot
+3	que ondon bot
+3	que onda chatbot
+3	que pex chatbot
+3	que peduqui chatbot
+3	que hay chatbot
+3	que tal chatbot
+3	que ondon chatbot
+3	que onda but
+3	que pex but
+3	que peduqui but
+3	que hay but
+3	que tal but
+3	que ondon but
+3	que onda robot
+3	que pex robot
+3	que peduqui robot
+3	que hay robot
+3	que tal robot
+3	que ondon robot
+3	que onda papu
+3	que pex papu
+3	que peduqui papu
+3	que hay papu
+3	que tal papu
+3	que ondon papu
+3	que onda amigo
+3	que pex amigo
+3	que peduqui amigo
+3	que hay amigo
+3	que tal amigo
+3	que ondon amigo
+3	que onda dude
+3	que pex dude
+3	que peduqui dude
+3	que hay dude
+3	que tal dude
+3	que ondon dude
+3	onda onda bot
+3	onda pex bot
+3	onda peduqui bot
+3	onda hay bot
+3	onda tal bot
+3	onda ondon bot
+3	onda onda chatbot
+3	onda pex chatbot
+3	onda peduqui chatbot
+3	onda hay chatbot
+3	onda tal chatbot
+3	onda ondon chatbot
+3	onda onda but
+3	onda pex but
+3	onda peduqui but
+3	onda hay but
+3	onda tal but
+3	onda ondon but
+3	onda onda robot
+3	onda pex robot
+3	onda peduqui robot
+3	onda hay robot
+3	onda tal robot
+3	onda ondon robot
+3	onda onda papu
+3	onda pex papu
+3	onda peduqui papu
+3	onda hay papu
+3	onda tal papu
+3	onda ondon papu
+3	onda onda amigo
+3	onda pex amigo
+3	onda peduqui amigo
+3	onda hay amigo
+3	onda tal amigo
+3	onda ondon amigo
+3	onda onda dude
+3	onda pex dude
+3	onda peduqui dude
+3	onda hay dude
+3	onda tal dude
+3	onda ondon dude
+3	que onda
+3	que pex
+3	que peduqui
+3	que hay
+3	que tal
+3	que ondon
+3	onda onda
+3	onda pex
+3	onda peduqui
+3	onda hay
+3	onda tal
+3	onda ondon
+3	que tal bot
+3	que tal chatbot
+3	que tal but
+3	que tal robot
+3	que tal papu
+3	que tal amigo
+3	que tal dude
+3	onda tal bot
+3	onda tal chatbot
+3	onda tal but
+3	onda tal robot
+3	onda tal papu
+3	onda tal amigo
+3	onda tal dude
+3	buenos dias
+3	buenos tardes
+3	buenos noches
+3	buenos dia
+3	buenos tarde
+3	buenos noche
+3	buenas dias
+3	buenas tardes
+3	buenas noches
+3	buenas dia
+3	buenas tarde
+3	buenas noche
+3	buen dias
+3	buen tardes
+3	buen noches
+3	buen dia
+3	buen tarde
+3	buen noche
+3	buenos dias bot
+3	buenos tardes bot
+3	buenos noches bot
+3	buenos dia bot
+3	buenos tarde bot
+3	buenos noche bot
+3	buenas dias bot
+3	buenas tardes bot
+3	buenas noches bot
+3	buenas dia bot
+3	buenas tarde bot
+3	buenas noche bot
+3	buen dias bot
+3	buen tardes bot
+3	buen noches bot
+3	buen dia bot
+3	buen tarde bot
+3	buen noche bot
+3	buenos dias chatbot
+3	buenos tardes chatbot
+3	buenos noches chatbot
+3	buenos dia chatbot
+3	buenos tarde chatbot
+3	buenos noche chatbot
+3	buenas dias chatbot
+3	buenas tardes chatbot
+3	buenas noches chatbot
+3	buenas dia chatbot
+3	buenas tarde chatbot
+3	buenas noche chatbot
+3	buen dias chatbot
+3	buen tardes chatbot
+3	buen noches chatbot
+3	buen dia chatbot
+3	buen tarde chatbot
+3	buen noche chatbot
+3	buenos dias but
+3	buenos tardes but
+3	buenos noches but
+3	buenos dia but
+3	buenos tarde but
+3	buenos noche but
+3	buenas dias but
+3	buenas tardes but
+3	buenas noches but
+3	buenas dia but
+3	buenas tarde but
+3	buenas noche but
+3	buen dias but
+3	buen tardes but
+3	buen noches but
+3	buen dia but
+3	buen tarde but
+3	buen noche but
+3	buenos dias robot
+3	buenos tardes robot
+3	buenos noches robot
+3	buenos dia robot
+3	buenos tarde robot
+3	buenos noche robot
+3	buenas dias robot
+3	buenas tardes robot
+3	buenas noches robot
+3	buenas dia robot
+3	buenas tarde robot
+3	buenas noche robot
+3	buen dias robot
+3	buen tardes robot
+3	buen noches robot
+3	buen dia robot
+3	buen tarde robot
+3	buen noche robot
+3	buenos dias papu
+3	buenos tardes papu
+3	buenos noches papu
+3	buenos dia papu
+3	buenos tarde papu
+3	buenos noche papu
+3	buenas dias papu
+3	buenas tardes papu
+3	buenas noches papu
+3	buenas dia papu
+3	buenas tarde papu
+3	buenas noche papu
+3	buen dias papu
+3	buen tardes papu
+3	buen noches papu
+3	buen dia papu
+3	buen tarde papu
+3	buen noche papu
+3	buenos dias amigo
+3	buenos tardes amigo
+3	buenos noches amigo
+3	buenos dia amigo
+3	buenos tarde amigo
+3	buenos noche amigo
+3	buenas dias amigo
+3	buenas tardes amigo
+3	buenas noches amigo
+3	buenas dia amigo
+3	buenas tarde amigo
+3	buenas noche amigo
+3	buen dias amigo
+3	buen tardes amigo
+3	buen noches amigo
+3	buen dia amigo
+3	buen tarde amigo
+3	buen noche amigo
+3	buenos dias dude
+3	buenos tardes dude
+3	buenos noches dude
+3	buenos dia dude
+3	buenos tarde dude
+3	buenos noche dude
+3	buenas dias dude
+3	buenas tardes dude
+3	buenas noches dude
+3	buenas dia dude
+3	buenas tarde dude
+3	buenas noche dude
+3	buen dias dude
+3	buen tardes dude
+3	buen noches dude
+3	buen dia dude
+3	buen tarde dude
+3	buen noche dude
+3	hola buenos dias
+3	hola buenos tardes
+3	hola buenos noches
+3	hola buenos dia
+3	hola buenos tarde
+3	hola buenos noche
+3	hola buenas dias
+3	hola buenas tardes
+3	hola buenas noches
+3	hola buenas dia
+3	hola buenas tarde
+3	hola buenas noche
+3	hola buen dias
+3	hola buen tardes
+3	hola buen noches
+3	hola buen dia
+3	hola buen tarde
+3	hola buen noche
+3	holi buenos dias
+3	holi buenos tardes
+3	holi buenos noches
+3	holi buenos dia
+3	holi buenos tarde
+3	holi buenos noche
+3	holi buenas dias
+3	holi buenas tardes
+3	holi buenas noches
+3	holi buenas dia
+3	holi buenas tarde
+3	holi buenas noche
+3	holi buen dias
+3	holi buen tardes
+3	holi buen noches
+3	holi buen dia
+3	holi buen tarde
+3	holi buen noche
+3	hi buenos dias
+3	hi buenos tardes
+3	hi buenos noches
+3	hi buenos dia
+3	hi buenos tarde
+3	hi buenos noche
+3	hi buenas dias
+3	hi buenas tardes
+3	hi buenas noches
+3	hi buenas dia
+3	hi buenas tarde
+3	hi buenas noche
+3	hi buen dias
+3	hi buen tardes
+3	hi buen noches
+3	hi buen dia
+3	hi buen tarde
+3	hi buen noche
+3	hello buenos dias
+3	hello buenos tardes
+3	hello buenos noches
+3	hello buenos dia
+3	hello buenos tarde
+3	hello buenos noche
+3	hello buenas dias
+3	hello buenas tardes
+3	hello buenas noches
+3	hello buenas dia
+3	hello buenas tarde
+3	hello buenas noche
+3	hello buen dias
+3	hello buen tardes
+3	hello buen noches
+3	hello buen dia
+3	hello buen tarde
+3	hello buen noche
+3	holaaaaaaa buenos dias
+3	holaaaaaaa buenos tardes
+3	holaaaaaaa buenos noches
+3	holaaaaaaa buenos dia
+3	holaaaaaaa buenos tarde
+3	holaaaaaaa buenos noche
+3	holaaaaaaa buenas dias
+3	holaaaaaaa buenas tardes
+3	holaaaaaaa buenas noches
+3	holaaaaaaa buenas dia
+3	holaaaaaaa buenas tarde
+3	holaaaaaaa buenas noche
+3	holaaaaaaa buen dias
+3	holaaaaaaa buen tardes
+3	holaaaaaaa buen noches
+3	holaaaaaaa buen dia
+3	holaaaaaaa buen tarde
+3	holaaaaaaa buen noche
+3	holiiiii buenos dias
+3	holiiiii buenos tardes
+3	holiiiii buenos noches
+3	holiiiii buenos dia
+3	holiiiii buenos tarde
+3	holiiiii buenos noche
+3	holiiiii buenas dias
+3	holiiiii buenas tardes
+3	holiiiii buenas noches
+3	holiiiii buenas dia
+3	holiiiii buenas tarde
+3	holiiiii buenas noche
+3	holiiiii buen dias
+3	holiiiii buen tardes
+3	holiiiii buen noches
+3	holiiiii buen dia
+3	holiiiii buen tarde
+3	holiiiii buen noche
+3	hao buenos dias
+3	hao buenos tardes
+3	hao buenos noches
+3	hao buenos dia
+3	hao buenos tarde
+3	hao buenos noche
+3	hao buenas dias
+3	hao buenas tardes
+3	hao buenas noches
+3	hao buenas dia
+3	hao buenas tarde
+3	hao buenas noche
+3	hao buen dias
+3	hao buen tardes
+3	hao buen noches
+3	hao buen dia
+3	hao buen tarde
+3	hao buen noche
+3	saludos buenos dias
+3	saludos buenos tardes
+3	saludos buenos noches
+3	saludos buenos dia
+3	saludos buenos tarde
+3	saludos buenos noche
+3	saludos buenas dias
+3	saludos buenas tardes
+3	saludos buenas noches
+3	saludos buenas dia
+3	saludos buenas tarde
+3	saludos buenas noche
+3	saludos buen dias
+3	saludos buen tardes
+3	saludos buen noches
+3	saludos buen dia
+3	saludos buen tarde
+3	saludos buen noche
+3	hola buenos dias bot
+3	hola buenos tardes bot
+3	hola buenos noches bot
+3	hola buenos dia bot
+3	hola buenos tarde bot
+3	hola buenos noche bot
+3	hola buenas dias bot
+3	hola buenas tardes bot
+3	hola buenas noches bot
+3	hola buenas dia bot
+3	hola buenas tarde bot
+3	hola buenas noche bot
+3	hola buen dias bot
+3	hola buen tardes bot
+3	hola buen noches bot
+3	hola buen dia bot
+3	hola buen tarde bot
+3	hola buen noche bot
+3	hola buenos dias chatbot
+3	hola buenos tardes chatbot
+3	hola buenos noches chatbot
+3	hola buenos dia chatbot
+3	hola buenos tarde chatbot
+3	hola buenos noche chatbot
+3	hola buenas dias chatbot
+3	hola buenas tardes chatbot
+3	hola buenas noches chatbot
+3	hola buenas dia chatbot
+3	hola buenas tarde chatbot
+3	hola buenas noche chatbot
+3	hola buen dias chatbot
+3	hola buen tardes chatbot
+3	hola buen noches chatbot
+3	hola buen dia chatbot
+3	hola buen tarde chatbot
+3	hola buen noche chatbot
+3	hola buenos dias but
+3	hola buenos tardes but
+3	hola buenos noches but
+3	hola buenos dia but
+3	hola buenos tarde but
+3	hola buenos noche but
+3	hola buenas dias but
+3	hola buenas tardes but
+3	hola buenas noches but
+3	hola buenas dia but
+3	hola buenas tarde but
+3	hola buenas noche but
+3	hola buen dias but
+3	hola buen tardes but
+3	hola buen noches but
+3	hola buen dia but
+3	hola buen tarde but
+3	hola buen noche but
+3	hola buenos dias robot
+3	hola buenos tardes robot
+3	hola buenos noches robot
+3	hola buenos dia robot
+3	hola buenos tarde robot
+3	hola buenos noche robot
+3	hola buenas dias robot
+3	hola buenas tardes robot
+3	hola buenas noches robot
+3	hola buenas dia robot
+3	hola buenas tarde robot
+3	hola buenas noche robot
+3	hola buen dias robot
+3	hola buen tardes robot
+3	hola buen noches robot
+3	hola buen dia robot
+3	hola buen tarde robot
+3	hola buen noche robot
+3	hola buenos dias papu
+3	hola buenos tardes papu
+3	hola buenos noches papu
+3	hola buenos dia papu
+3	hola buenos tarde papu
+3	hola buenos noche papu
+3	hola buenas dias papu
+3	hola buenas tardes papu
+3	hola buenas noches papu
+3	hola buenas dia papu
+3	hola buenas tarde papu
+3	hola buenas noche papu
+3	hola buen dias papu
+3	hola buen tardes papu
+3	hola buen noches papu
+3	hola buen dia papu
+3	hola buen tarde papu
+3	hola buen noche papu
+3	hola buenos dias amigo
+3	hola buenos tardes amigo
+3	hola buenos noches amigo
+3	hola buenos dia amigo
+3	hola buenos tarde amigo
+3	hola buenos noche amigo
+3	hola buenas dias amigo
+3	hola buenas tardes amigo
+3	hola buenas noches amigo
+3	hola buenas dia amigo
+3	hola buenas tarde amigo
+3	hola buenas noche amigo
+3	hola buen dias amigo
+3	hola buen tardes amigo
+3	hola buen noches amigo
+3	hola buen dia amigo
+3	hola buen tarde amigo
+3	hola buen noche amigo
+3	hola buenos dias dude
+3	hola buenos tardes dude
+3	hola buenos noches dude
+3	hola buenos dia dude
+3	hola buenos tarde dude
+3	hola buenos noche dude
+3	hola buenas dias dude
+3	hola buenas tardes dude
+3	hola buenas noches dude
+3	hola buenas dia dude
+3	hola buenas tarde dude
+3	hola buenas noche dude
+3	hola buen dias dude
+3	hola buen tardes dude
+3	hola buen noches dude
+3	hola buen dia dude
+3	hola buen tarde dude
+3	hola buen noche dude
+3	holi buenos dias bot
+3	holi buenos tardes bot
+3	holi buenos noches bot
+3	holi buenos dia bot
+3	holi buenos tarde bot
+3	holi buenos noche bot
+3	holi buenas dias bot
+3	holi buenas tardes bot
+3	holi buenas noches bot
+3	holi buenas dia bot
+3	holi buenas tarde bot
+3	holi buenas noche bot
+3	holi buen dias bot
+3	holi buen tardes bot
+3	holi buen noches bot
+3	holi buen dia bot
+3	holi buen tarde bot
+3	holi buen noche bot
+3	holi buenos dias chatbot
+3	holi buenos tardes chatbot
+3	holi buenos noches chatbot
+3	holi buenos dia chatbot
+3	holi buenos tarde chatbot
+3	holi buenos noche chatbot
+3	holi buenas dias chatbot
+3	holi buenas tardes chatbot
+3	holi buenas noches chatbot
+3	holi buenas dia chatbot
+3	holi buenas tarde chatbot
+3	holi buenas noche chatbot
+3	holi buen dias chatbot
+3	holi buen tardes chatbot
+3	holi buen noches chatbot
+3	holi buen dia chatbot
+3	holi buen tarde chatbot
+3	holi buen noche chatbot
+3	holi buenos dias but
+3	holi buenos tardes but
+3	holi buenos noches but
+3	holi buenos dia but
+3	holi buenos tarde but
+3	holi buenos noche but
+3	holi buenas dias but
+3	holi buenas tardes but
+3	holi buenas noches but
+3	holi buenas dia but
+3	holi buenas tarde but
+3	holi buenas noche but
+3	holi buen dias but
+3	holi buen tardes but
+3	holi buen noches but
+3	holi buen dia but
+3	holi buen tarde but
+3	holi buen noche but
+3	holi buenos dias robot
+3	holi buenos tardes robot
+3	holi buenos noches robot
+3	holi buenos dia robot
+3	holi buenos tarde robot
+3	holi buenos noche robot
+3	holi buenas dias robot
+3	holi buenas tardes robot
+3	holi buenas noches robot
+3	holi buenas dia robot
+3	holi buenas tarde robot
+3	holi buenas noche robot
+3	holi buen dias robot
+3	holi buen tardes robot
+3	holi buen noches robot
+3	holi buen dia robot
+3	holi buen tarde robot
+3	holi buen noche robot
+3	holi buenos dias papu
+3	holi buenos tardes papu
+3	holi buenos noches papu
+3	holi buenos dia papu
+3	holi buenos tarde papu
+3	holi buenos noche papu
+3	holi buenas dias papu
+3	holi buenas tardes papu
+3	holi buenas noches papu
+3	holi buenas dia papu
+3	holi buenas tarde papu
+3	holi buenas noche papu
+3	holi buen dias papu
+3	holi buen tardes papu
+3	holi buen noches papu
+3	holi buen dia papu
+3	holi buen tarde papu
+3	holi buen noche papu
+3	holi buenos dias amigo
+3	holi buenos tardes amigo
+3	holi buenos noches amigo
+3	holi buenos dia amigo
+3	holi buenos tarde amigo
+3	holi buenos noche amigo
+3	holi buenas dias amigo
+3	holi buenas tardes amigo
+3	holi buenas noches amigo
+3	holi buenas dia amigo
+3	holi buenas tarde amigo
+3	holi buenas noche amigo
+3	holi buen dias amigo
+3	holi buen tardes amigo
+3	holi buen noches amigo
+3	holi buen dia amigo
+3	holi buen tarde amigo
+3	holi buen noche amigo
+3	holi buenos dias dude
+3	holi buenos tardes dude
+3	holi buenos noches dude
+3	holi buenos dia dude
+3	holi buenos tarde dude
+3	holi buenos noche dude
+3	holi buenas dias dude
+3	holi buenas tardes dude
+3	holi buenas noches dude
+3	holi buenas dia dude
+3	holi buenas tarde dude
+3	holi buenas noche dude
+3	holi buen dias dude
+3	holi buen tardes dude
+3	holi buen noches dude
+3	holi buen dia dude
+3	holi buen tarde dude
+3	holi buen noche dude
+3	hi buenos dias bot
+3	hi buenos tardes bot
+3	hi buenos noches bot
+3	hi buenos dia bot
+3	hi buenos tarde bot
+3	hi buenos noche bot
+3	hi buenas dias bot
+3	hi buenas tardes bot
+3	hi buenas noches bot
+3	hi buenas dia bot
+3	hi buenas tarde bot
+3	hi buenas noche bot
+3	hi buen dias bot
+3	hi buen tardes bot
+3	hi buen noches bot
+3	hi buen dia bot
+3	hi buen tarde bot
+3	hi buen noche bot
+3	hi buenos dias chatbot
+3	hi buenos tardes chatbot
+3	hi buenos noches chatbot
+3	hi buenos dia chatbot
+3	hi buenos tarde chatbot
+3	hi buenos noche chatbot
+3	hi buenas dias chatbot
+3	hi buenas tardes chatbot
+3	hi buenas noches chatbot
+3	hi buenas dia chatbot
+3	hi buenas tarde chatbot
+3	hi buenas noche chatbot
+3	hi buen dias chatbot
+3	hi buen tardes chatbot
+3	hi buen noches chatbot
+3	hi buen dia chatbot
+3	hi buen tarde chatbot
+3	hi buen noche chatbot
+3	hi buenos dias but
+3	hi buenos tardes but
+3	hi buenos noches but
+3	hi buenos dia but
+3	hi buenos tarde but
+3	hi buenos noche but
+3	hi buenas dias but
+3	hi buenas tardes but
+3	hi buenas noches but
+3	hi buenas dia but
+3	hi buenas tarde but
+3	hi buenas noche but
+3	hi buen dias but
+3	hi buen tardes but
+3	hi buen noches but
+3	hi buen dia but
+3	hi buen tarde but
+3	hi buen noche but
+3	hi buenos dias robot
+3	hi buenos tardes robot
+3	hi buenos noches robot
+3	hi buenos dia robot
+3	hi buenos tarde robot
+3	hi buenos noche robot
+3	hi buenas dias robot
+3	hi buenas tardes robot
+3	hi buenas noches robot
+3	hi buenas dia robot
+3	hi buenas tarde robot
+3	hi buenas noche robot
+3	hi buen dias robot
+3	hi buen tardes robot
+3	hi buen noches robot
+3	hi buen dia robot
+3	hi buen tarde robot
+3	hi buen noche robot
+3	hi buenos dias papu
+3	hi buenos tardes papu
+3	hi buenos noches papu
+3	hi buenos dia papu
+3	hi buenos tarde papu
+3	hi buenos noche papu
+3	hi buenas dias papu
+3	hi buenas tardes papu
+3	hi buenas noches papu
+3	hi buenas dia papu
+3	hi buenas tarde papu
+3	hi buenas noche papu
+3	hi buen dias papu
+3	hi buen tardes papu
+3	hi buen noches papu
+3	hi buen dia papu
+3	hi buen tarde papu
+3	hi buen noche papu
+3	hi buenos dias amigo
+3	hi buenos tardes amigo
+3	hi buenos noches amigo
+3	hi buenos dia amigo
+3	hi buenos tarde amigo
+3	hi buenos noche amigo
+3	hi buenas dias amigo
+3	hi buenas tardes amigo
+3	hi buenas noches amigo
+3	hi buenas dia amigo
+3	hi buenas tarde amigo
+3	hi buenas noche amigo
+3	hi buen dias amigo
+3	hi buen tardes amigo
+3	hi buen noches amigo
+3	hi buen dia amigo
+3	hi buen tarde amigo
+3	hi buen noche amigo
+3	hi buenos dias dude
+3	hi buenos tardes dude
+3	hi buenos noches dude
+3	hi buenos dia dude
+3	hi buenos tarde dude
+3	hi buenos noche dude
+3	hi buenas dias dude
+3	hi buenas tardes dude
+3	hi buenas noches dude
+3	hi buenas dia dude
+3	hi buenas tarde dude
+3	hi buenas noche dude
+3	hi buen dias dude
+3	hi buen tardes dude
+3	hi buen noches dude
+3	hi buen dia dude
+3	hi buen tarde dude
+3	hi buen noche dude
+3	hello buenos dias bot
+3	hello buenos tardes bot
+3	hello buenos noches bot
+3	hello buenos dia bot
+3	hello buenos tarde bot
+3	hello buenos noche bot
+3	hello buenas dias bot
+3	hello buenas tardes bot
+3	hello buenas noches bot
+3	hello buenas dia bot
+3	hello buenas tarde bot
+3	hello buenas noche bot
+3	hello buen dias bot
+3	hello buen tardes bot
+3	hello buen noches bot
+3	hello buen dia bot
+3	hello buen tarde bot
+3	hello buen noche bot
+3	hello buenos dias chatbot
+3	hello buenos tardes chatbot
+3	hello buenos noches chatbot
+3	hello buenos dia chatbot
+3	hello buenos tarde chatbot
+3	hello buenos noche chatbot
+3	hello buenas dias chatbot
+3	hello buenas tardes chatbot
+3	hello buenas noches chatbot
+3	hello buenas dia chatbot
+3	hello buenas tarde chatbot
+3	hello buenas noche chatbot
+3	hello buen dias chatbot
+3	hello buen tardes chatbot
+3	hello buen noches chatbot
+3	hello buen dia chatbot
+3	hello buen tarde chatbot
+3	hello buen noche chatbot
+3	hello buenos dias but
+3	hello buenos tardes but
+3	hello buenos noches but
+3	hello buenos dia but
+3	hello buenos tarde but
+3	hello buenos noche but
+3	hello buenas dias but
+3	hello buenas tardes but
+3	hello buenas noches but
+3	hello buenas dia but
+3	hello buenas tarde but
+3	hello buenas noche but
+3	hello buen dias but
+3	hello buen tardes but
+3	hello buen noches but
+3	hello buen dia but
+3	hello buen tarde but
+3	hello buen noche but
+3	hello buenos dias robot
+3	hello buenos tardes robot
+3	hello buenos noches robot
+3	hello buenos dia robot
+3	hello buenos tarde robot
+3	hello buenos noche robot
+3	hello buenas dias robot
+3	hello buenas tardes robot
+3	hello buenas noches robot
+3	hello buenas dia robot
+3	hello buenas tarde robot
+3	hello buenas noche robot
+3	hello buen dias robot
+3	hello buen tardes robot
+3	hello buen noches robot
+3	hello buen dia robot
+3	hello buen tarde robot
+3	hello buen noche robot
+3	hello buenos dias papu
+3	hello buenos tardes papu
+3	hello buenos noches papu
+3	hello buenos dia papu
+3	hello buenos tarde papu
+3	hello buenos noche papu
+3	hello buenas dias papu
+3	hello buenas tardes papu
+3	hello buenas noches papu
+3	hello buenas dia papu
+3	hello buenas tarde papu
+3	hello buenas noche papu
+3	hello buen dias papu
+3	hello buen tardes papu
+3	hello buen noches papu
+3	hello buen dia papu
+3	hello buen tarde papu
+3	hello buen noche papu
+3	hello buenos dias amigo
+3	hello buenos tardes amigo
+3	hello buenos noches amigo
+3	hello buenos dia amigo
+3	hello buenos tarde amigo
+3	hello buenos noche amigo
+3	hello buenas dias amigo
+3	hello buenas tardes amigo
+3	hello buenas noches amigo
+3	hello buenas dia amigo
+3	hello buenas tarde amigo
+3	hello buenas noche amigo
+3	hello buen dias amigo
+3	hello buen tardes amigo
+3	hello buen noches amigo
+3	hello buen dia amigo
+3	hello buen tarde amigo
+3	hello buen noche amigo
+3	hello buenos dias dude
+3	hello buenos tardes dude
+3	hello buenos noches dude
+3	hello buenos dia dude
+3	hello buenos tarde dude
+3	hello buenos noche dude
+3	hello buenas dias dude
+3	hello buenas tardes dude
+3	hello buenas noches dude
+3	hello buenas dia dude
+3	hello buenas tarde dude
+3	hello buenas noche dude
+3	hello buen dias dude
+3	hello buen tardes dude
+3	hello buen noches dude
+3	hello buen dia dude
+3	hello buen tarde dude
+3	hello buen noche dude
+3	holaaaaaaa buenos dias bot
+3	holaaaaaaa buenos tardes bot
+3	holaaaaaaa buenos noches bot
+3	holaaaaaaa buenos dia bot
+3	holaaaaaaa buenos tarde bot
+3	holaaaaaaa buenos noche bot
+3	holaaaaaaa buenas dias bot
+3	holaaaaaaa buenas tardes bot
+3	holaaaaaaa buenas noches bot
+3	holaaaaaaa buenas dia bot
+3	holaaaaaaa buenas tarde bot
+3	holaaaaaaa buenas noche bot
+3	holaaaaaaa buen dias bot
+3	holaaaaaaa buen tardes bot
+3	holaaaaaaa buen noches bot
+3	holaaaaaaa buen dia bot
+3	holaaaaaaa buen tarde bot
+3	holaaaaaaa buen noche bot
+3	holaaaaaaa buenos dias chatbot
+3	holaaaaaaa buenos tardes chatbot
+3	holaaaaaaa buenos noches chatbot
+3	holaaaaaaa buenos dia chatbot
+3	holaaaaaaa buenos tarde chatbot
+3	holaaaaaaa buenos noche chatbot
+3	holaaaaaaa buenas dias chatbot
+3	holaaaaaaa buenas tardes chatbot
+3	holaaaaaaa buenas noches chatbot
+3	holaaaaaaa buenas dia chatbot
+3	holaaaaaaa buenas tarde chatbot
+3	holaaaaaaa buenas noche chatbot
+3	holaaaaaaa buen dias chatbot
+3	holaaaaaaa buen tardes chatbot
+3	holaaaaaaa buen noches chatbot
+3	holaaaaaaa buen dia chatbot
+3	holaaaaaaa buen tarde chatbot
+3	holaaaaaaa buen noche chatbot
+3	holaaaaaaa buenos dias but
+3	holaaaaaaa buenos tardes but
+3	holaaaaaaa buenos noches but
+3	holaaaaaaa buenos dia but
+3	holaaaaaaa buenos tarde but
+3	holaaaaaaa buenos noche but
+3	holaaaaaaa buenas dias but
+3	holaaaaaaa buenas tardes but
+3	holaaaaaaa buenas noches but
+3	holaaaaaaa buenas dia but
+3	holaaaaaaa buenas tarde but
+3	holaaaaaaa buenas noche but
+3	holaaaaaaa buen dias but
+3	holaaaaaaa buen tardes but
+3	holaaaaaaa buen noches but
+3	holaaaaaaa buen dia but
+3	holaaaaaaa buen tarde but
+3	holaaaaaaa buen noche but
+3	holaaaaaaa buenos dias robot
+3	holaaaaaaa buenos tardes robot
+3	holaaaaaaa buenos noches robot
+3	holaaaaaaa buenos dia robot
+3	holaaaaaaa buenos tarde robot
+3	holaaaaaaa buenos noche robot
+3	holaaaaaaa buenas dias robot
+3	holaaaaaaa buenas tardes robot
+3	holaaaaaaa buenas noches robot
+3	holaaaaaaa buenas dia robot
+3	holaaaaaaa buenas tarde robot
+3	holaaaaaaa buenas noche robot
+3	holaaaaaaa buen dias robot
+3	holaaaaaaa buen tardes robot
+3	holaaaaaaa buen noches robot
+3	holaaaaaaa buen dia robot
+3	holaaaaaaa buen tarde robot
+3	holaaaaaaa buen noche robot
+3	holaaaaaaa buenos dias papu
+3	holaaaaaaa buenos tardes papu
+3	holaaaaaaa buenos noches papu
+3	holaaaaaaa buenos dia papu
+3	holaaaaaaa buenos tarde papu
+3	holaaaaaaa buenos noche papu
+3	holaaaaaaa buenas dias papu
+3	holaaaaaaa buenas tardes papu
+3	holaaaaaaa buenas noches papu
+3	holaaaaaaa buenas dia papu
+3	holaaaaaaa buenas tarde papu
+3	holaaaaaaa buenas noche papu
+3	holaaaaaaa buen dias papu
+3	holaaaaaaa buen tardes papu
+3	holaaaaaaa buen noches papu
+3	holaaaaaaa buen dia papu
+3	holaaaaaaa buen tarde papu
+3	holaaaaaaa buen noche papu
+3	holaaaaaaa buenos dias amigo
+3	holaaaaaaa buenos tardes amigo
+3	holaaaaaaa buenos noches amigo
+3	holaaaaaaa buenos dia amigo
+3	holaaaaaaa buenos tarde amigo
+3	holaaaaaaa buenos noche amigo
+3	holaaaaaaa buenas dias amigo
+3	holaaaaaaa buenas tardes amigo
+3	holaaaaaaa buenas noches amigo
+3	holaaaaaaa buenas dia amigo
+3	holaaaaaaa buenas tarde amigo
+3	holaaaaaaa buenas noche amigo
+3	holaaaaaaa buen dias amigo
+3	holaaaaaaa buen tardes amigo
+3	holaaaaaaa buen noches amigo
+3	holaaaaaaa buen dia amigo
+3	holaaaaaaa buen tarde amigo
+3	holaaaaaaa buen noche amigo
+3	holaaaaaaa buenos dias dude
+3	holaaaaaaa buenos tardes dude
+3	holaaaaaaa buenos noches dude
+3	holaaaaaaa buenos dia dude
+3	holaaaaaaa buenos tarde dude
+3	holaaaaaaa buenos noche dude
+3	holaaaaaaa buenas dias dude
+3	holaaaaaaa buenas tardes dude
+3	holaaaaaaa buenas noches dude
+3	holaaaaaaa buenas dia dude
+3	holaaaaaaa buenas tarde dude
+3	holaaaaaaa buenas noche dude
+3	holaaaaaaa buen dias dude
+3	holaaaaaaa buen tardes dude
+3	holaaaaaaa buen noches dude
+3	holaaaaaaa buen dia dude
+3	holaaaaaaa buen tarde dude
+3	holaaaaaaa buen noche dude
+3	holiiiii buenos dias bot
+3	holiiiii buenos tardes bot
+3	holiiiii buenos noches bot
+3	holiiiii buenos dia bot
+3	holiiiii buenos tarde bot
+3	holiiiii buenos noche bot
+3	holiiiii buenas dias bot
+3	holiiiii buenas tardes bot
+3	holiiiii buenas noches bot
+3	holiiiii buenas dia bot
+3	holiiiii buenas tarde bot
+3	holiiiii buenas noche bot
+3	holiiiii buen dias bot
+3	holiiiii buen tardes bot
+3	holiiiii buen noches bot
+3	holiiiii buen dia bot
+3	holiiiii buen tarde bot
+3	holiiiii buen noche bot
+3	holiiiii buenos dias chatbot
+3	holiiiii buenos tardes chatbot
+3	holiiiii buenos noches chatbot
+3	holiiiii buenos dia chatbot
+3	holiiiii buenos tarde chatbot
+3	holiiiii buenos noche chatbot
+3	holiiiii buenas dias chatbot
+3	holiiiii buenas tardes chatbot
+3	holiiiii buenas noches chatbot
+3	holiiiii buenas dia chatbot
+3	holiiiii buenas tarde chatbot
+3	holiiiii buenas noche chatbot
+3	holiiiii buen dias chatbot
+3	holiiiii buen tardes chatbot
+3	holiiiii buen noches chatbot
+3	holiiiii buen dia chatbot
+3	holiiiii buen tarde chatbot
+3	holiiiii buen noche chatbot
+3	holiiiii buenos dias but
+3	holiiiii buenos tardes but
+3	holiiiii buenos noches but
+3	holiiiii buenos dia but
+3	holiiiii buenos tarde but
+3	holiiiii buenos noche but
+3	holiiiii buenas dias but
+3	holiiiii buenas tardes but
+3	holiiiii buenas noches but
+3	holiiiii buenas dia but
+3	holiiiii buenas tarde but
+3	holiiiii buenas noche but
+3	holiiiii buen dias but
+3	holiiiii buen tardes but
+3	holiiiii buen noches but
+3	holiiiii buen dia but
+3	holiiiii buen tarde but
+3	holiiiii buen noche but
+3	holiiiii buenos dias robot
+3	holiiiii buenos tardes robot
+3	holiiiii buenos noches robot
+3	holiiiii buenos dia robot
+3	holiiiii buenos tarde robot
+3	holiiiii buenos noche robot
+3	holiiiii buenas dias robot
+3	holiiiii buenas tardes robot
+3	holiiiii buenas noches robot
+3	holiiiii buenas dia robot
+3	holiiiii buenas tarde robot
+3	holiiiii buenas noche robot
+3	holiiiii buen dias robot
+3	holiiiii buen tardes robot
+3	holiiiii buen noches robot
+3	holiiiii buen dia robot
+3	holiiiii buen tarde robot
+3	holiiiii buen noche robot
+3	holiiiii buenos dias papu
+3	holiiiii buenos tardes papu
+3	holiiiii buenos noches papu
+3	holiiiii buenos dia papu
+3	holiiiii buenos tarde papu
+3	holiiiii buenos noche papu
+3	holiiiii buenas dias papu
+3	holiiiii buenas tardes papu
+3	holiiiii buenas noches papu
+3	holiiiii buenas dia papu
+3	holiiiii buenas tarde papu
+3	holiiiii buenas noche papu
+3	holiiiii buen dias papu
+3	holiiiii buen tardes papu
+3	holiiiii buen noches papu
+3	holiiiii buen dia papu
+3	holiiiii buen tarde papu
+3	holiiiii buen noche papu
+3	holiiiii buenos dias amigo
+3	holiiiii buenos tardes amigo
+3	holiiiii buenos noches amigo
+3	holiiiii buenos dia amigo
+3	holiiiii buenos tarde amigo
+3	holiiiii buenos noche amigo
+3	holiiiii buenas dias amigo
+3	holiiiii buenas tardes amigo
+3	holiiiii buenas noches amigo
+3	holiiiii buenas dia amigo
+3	holiiiii buenas tarde amigo
+3	holiiiii buenas noche amigo
+3	holiiiii buen dias amigo
+3	holiiiii buen tardes amigo
+3	holiiiii buen noches amigo
+3	holiiiii buen dia amigo
+3	holiiiii buen tarde amigo
+3	holiiiii buen noche amigo
+3	holiiiii buenos dias dude
+3	holiiiii buenos tardes dude
+3	holiiiii buenos noches dude
+3	holiiiii buenos dia dude
+3	holiiiii buenos tarde dude
+3	holiiiii buenos noche dude
+3	holiiiii buenas dias dude
+3	holiiiii buenas tardes dude
+3	holiiiii buenas noches dude
+3	holiiiii buenas dia dude
+3	holiiiii buenas tarde dude
+3	holiiiii buenas noche dude
+3	holiiiii buen dias dude
+3	holiiiii buen tardes dude
+3	holiiiii buen noches dude
+3	holiiiii buen dia dude
+3	holiiiii buen tarde dude
+3	holiiiii buen noche dude
+3	hao buenos dias bot
+3	hao buenos tardes bot
+3	hao buenos noches bot
+3	hao buenos dia bot
+3	hao buenos tarde bot
+3	hao buenos noche bot
+3	hao buenas dias bot
+3	hao buenas tardes bot
+3	hao buenas noches bot
+3	hao buenas dia bot
+3	hao buenas tarde bot
+3	hao buenas noche bot
+3	hao buen dias bot
+3	hao buen tardes bot
+3	hao buen noches bot
+3	hao buen dia bot
+3	hao buen tarde bot
+3	hao buen noche bot
+3	hao buenos dias chatbot
+3	hao buenos tardes chatbot
+3	hao buenos noches chatbot
+3	hao buenos dia chatbot
+3	hao buenos tarde chatbot
+3	hao buenos noche chatbot
+3	hao buenas dias chatbot
+3	hao buenas tardes chatbot
+3	hao buenas noches chatbot
+3	hao buenas dia chatbot
+3	hao buenas tarde chatbot
+3	hao buenas noche chatbot
+3	hao buen dias chatbot
+3	hao buen tardes chatbot
+3	hao buen noches chatbot
+3	hao buen dia chatbot
+3	hao buen tarde chatbot
+3	hao buen noche chatbot
+3	hao buenos dias but
+3	hao buenos tardes but
+3	hao buenos noches but
+3	hao buenos dia but
+3	hao buenos tarde but
+3	hao buenos noche but
+3	hao buenas dias but
+3	hao buenas tardes but
+3	hao buenas noches but
+3	hao buenas dia but
+3	hao buenas tarde but
+3	hao buenas noche but
+3	hao buen dias but
+3	hao buen tardes but
+3	hao buen noches but
+3	hao buen dia but
+3	hao buen tarde but
+3	hao buen noche but
+3	hao buenos dias robot
+3	hao buenos tardes robot
+3	hao buenos noches robot
+3	hao buenos dia robot
+3	hao buenos tarde robot
+3	hao buenos noche robot
+3	hao buenas dias robot
+3	hao buenas tardes robot
+3	hao buenas noches robot
+3	hao buenas dia robot
+3	hao buenas tarde robot
+3	hao buenas noche robot
+3	hao buen dias robot
+3	hao buen tardes robot
+3	hao buen noches robot
+3	hao buen dia robot
+3	hao buen tarde robot
+3	hao buen noche robot
+3	hao buenos dias papu
+3	hao buenos tardes papu
+3	hao buenos noches papu
+3	hao buenos dia papu
+3	hao buenos tarde papu
+3	hao buenos noche papu
+3	hao buenas dias papu
+3	hao buenas tardes papu
+3	hao buenas noches papu
+3	hao buenas dia papu
+3	hao buenas tarde papu
+3	hao buenas noche papu
+3	hao buen dias papu
+3	hao buen tardes papu
+3	hao buen noches papu
+3	hao buen dia papu
+3	hao buen tarde papu
+3	hao buen noche papu
+3	hao buenos dias amigo
+3	hao buenos tardes amigo
+3	hao buenos noches amigo
+3	hao buenos dia amigo
+3	hao buenos tarde amigo
+3	hao buenos noche amigo
+3	hao buenas dias amigo
+3	hao buenas tardes amigo
+3	hao buenas noches amigo
+3	hao buenas dia amigo
+3	hao buenas tarde amigo
+3	hao buenas noche amigo
+3	hao buen dias amigo
+3	hao buen tardes amigo
+3	hao buen noches amigo
+3	hao buen dia amigo
+3	hao buen tarde amigo
+3	hao buen noche amigo
+3	hao buenos dias dude
+3	hao buenos tardes dude
+3	hao buenos noches dude
+3	hao buenos dia dude
+3	hao buenos tarde dude
+3	hao buenos noche dude
+3	hao buenas dias dude
+3	hao buenas tardes dude
+3	hao buenas noches dude
+3	hao buenas dia dude
+3	hao buenas tarde dude
+3	hao buenas noche dude
+3	hao buen dias dude
+3	hao buen tardes dude
+3	hao buen noches dude
+3	hao buen dia dude
+3	hao buen tarde dude
+3	hao buen noche dude
+3	saludos buenos dias bot
+3	saludos buenos tardes bot
+3	saludos buenos noches bot
+3	saludos buenos dia bot
+3	saludos buenos tarde bot
+3	saludos buenos noche bot
+3	saludos buenas dias bot
+3	saludos buenas tardes bot
+3	saludos buenas noches bot
+3	saludos buenas dia bot
+3	saludos buenas tarde bot
+3	saludos buenas noche bot
+3	saludos buen dias bot
+3	saludos buen tardes bot
+3	saludos buen noches bot
+3	saludos buen dia bot
+3	saludos buen tarde bot
+3	saludos buen noche bot
+3	saludos buenos dias chatbot
+3	saludos buenos tardes chatbot
+3	saludos buenos noches chatbot
+3	saludos buenos dia chatbot
+3	saludos buenos tarde chatbot
+3	saludos buenos noche chatbot
+3	saludos buenas dias chatbot
+3	saludos buenas tardes chatbot
+3	saludos buenas noches chatbot
+3	saludos buenas dia chatbot
+3	saludos buenas tarde chatbot
+3	saludos buenas noche chatbot
+3	saludos buen dias chatbot
+3	saludos buen tardes chatbot
+3	saludos buen noches chatbot
+3	saludos buen dia chatbot
+3	saludos buen tarde chatbot
+3	saludos buen noche chatbot
+3	saludos buenos dias but
+3	saludos buenos tardes but
+3	saludos buenos noches but
+3	saludos buenos dia but
+3	saludos buenos tarde but
+3	saludos buenos noche but
+3	saludos buenas dias but
+3	saludos buenas tardes but
+3	saludos buenas noches but
+3	saludos buenas dia but
+3	saludos buenas tarde but
+3	saludos buenas noche but
+3	saludos buen dias but
+3	saludos buen tardes but
+3	saludos buen noches but
+3	saludos buen dia but
+3	saludos buen tarde but
+3	saludos buen noche but
+3	saludos buenos dias robot
+3	saludos buenos tardes robot
+3	saludos buenos noches robot
+3	saludos buenos dia robot
+3	saludos buenos tarde robot
+3	saludos buenos noche robot
+3	saludos buenas dias robot
+3	saludos buenas tardes robot
+3	saludos buenas noches robot
+3	saludos buenas dia robot
+3	saludos buenas tarde robot
+3	saludos buenas noche robot
+3	saludos buen dias robot
+3	saludos buen tardes robot
+3	saludos buen noches robot
+3	saludos buen dia robot
+3	saludos buen tarde robot
+3	saludos buen noche robot
+3	saludos buenos dias papu
+3	saludos buenos tardes papu
+3	saludos buenos noches papu
+3	saludos buenos dia papu
+3	saludos buenos tarde papu
+3	saludos buenos noche papu
+3	saludos buenas dias papu
+3	saludos buenas tardes papu
+3	saludos buenas noches papu
+3	saludos buenas dia papu
+3	saludos buenas tarde papu
+3	saludos buenas noche papu
+3	saludos buen dias papu
+3	saludos buen tardes papu
+3	saludos buen noches papu
+3	saludos buen dia papu
+3	saludos buen tarde papu
+3	saludos buen noche papu
+3	saludos buenos dias amigo
+3	saludos buenos tardes amigo
+3	saludos buenos noches amigo
+3	saludos buenos dia amigo
+3	saludos buenos tarde amigo
+3	saludos buenos noche amigo
+3	saludos buenas dias amigo
+3	saludos buenas tardes amigo
+3	saludos buenas noches amigo
+3	saludos buenas dia amigo
+3	saludos buenas tarde amigo
+3	saludos buenas noche amigo
+3	saludos buen dias amigo
+3	saludos buen tardes amigo
+3	saludos buen noches amigo
+3	saludos buen dia amigo
+3	saludos buen tarde amigo
+3	saludos buen noche amigo
+3	saludos buenos dias dude
+3	saludos buenos tardes dude
+3	saludos buenos noches dude
+3	saludos buenos dia dude
+3	saludos buenos tarde dude
+3	saludos buenos noche dude
+3	saludos buenas dias dude
+3	saludos buenas tardes dude
+3	saludos buenas noches dude
+3	saludos buenas dia dude
+3	saludos buenas tarde dude
+3	saludos buenas noche dude
+3	saludos buen dias dude
+3	saludos buen tardes dude
+3	saludos buen noches dude
+3	saludos buen dia dude
+3	saludos buen tarde dude
+3	saludos buen noche dude
+4	yo soy tu amigo
+4	yo soy tu cuate
+4	yo soy tu companero
+4	yo soy tu camarada
+4	lol
+4	gg
+4	we
+4	:v
+4	<3
+4	chiste bot
+4	broma bot
+4	algo bot
+4	tlavesulas bot
+4	chiste chatbot
+4	broma chatbot
+4	algo chatbot
+4	tlavesulas chatbot
+4	chiste but
+4	broma but
+4	algo but
+4	tlavesulas but
+4	chiste robot
+4	broma robot
+4	algo robot
+4	tlavesulas robot
+4	chiste papu
+4	broma papu
+4	algo papu
+4	tlavesulas papu
+4	chiste amigo
+4	broma amigo
+4	algo amigo
+4	tlavesulas amigo
+4	chiste dude
+4	broma dude
+4	algo dude
+4	tlavesulas dude
+4	chiste
+4	broma
+4	algo
+4	tlavesulas
+4	dime un chiste
+4	dime un broma
+4	dime un algo
+4	dime un tlavesulas
+4	di un chiste
+4	di un broma
+4	di un algo
+4	di un tlavesulas
+4	haz un chiste
+4	haz un broma
+4	haz un algo
+4	haz un tlavesulas
+4	cuentame un chiste
+4	cuentame un broma
+4	cuentame un algo
+4	cuentame un tlavesulas
+4	inventa un chiste
+4	inventa un broma
+4	inventa un algo
+4	inventa un tlavesulas
+4	muere un chiste
+4	muere un broma
+4	muere un algo
+4	muere un tlavesulas
+4	canta un chiste
+4	canta un broma
+4	canta un algo
+4	canta un tlavesulas
+4	habla un chiste
+4	habla un broma
+4	habla un algo
+4	habla un tlavesulas
+4	piensa un chiste
+4	piensa un broma
+4	piensa un algo
+4	piensa un tlavesulas
+4	inventa un chiste
+4	inventa un broma
+4	inventa un algo
+4	inventa un tlavesulas
+4	dime una chiste
+4	dime una broma
+4	dime una algo
+4	dime una tlavesulas
+4	di una chiste
+4	di una broma
+4	di una algo
+4	di una tlavesulas
+4	haz una chiste
+4	haz una broma
+4	haz una algo
+4	haz una tlavesulas
+4	cuentame una chiste
+4	cuentame una broma
+4	cuentame una algo
+4	cuentame una tlavesulas
+4	inventa una chiste
+4	inventa una broma
+4	inventa una algo
+4	inventa una tlavesulas
+4	muere una chiste
+4	muere una broma
+4	muere una algo
+4	muere una tlavesulas
+4	canta una chiste
+4	canta una broma
+4	canta una algo
+4	canta una tlavesulas
+4	habla una chiste
+4	habla una broma
+4	habla una algo
+4	habla una tlavesulas
+4	piensa una chiste
+4	piensa una broma
+4	piensa una algo
+4	piensa una tlavesulas
+4	inventa una chiste
+4	inventa una broma
+4	inventa una algo
+4	inventa una tlavesulas
+4	chiste lol
+4	broma lol
+4	algo lol
+4	tlavesulas lol
+4	chiste gg
+4	broma gg
+4	algo gg
+4	tlavesulas gg
+4	chiste we
+4	broma we
+4	algo we
+4	tlavesulas we
+4	chiste :v
+4	broma :v
+4	algo :v
+4	tlavesulas :v
+4	chiste <3
+4	broma <3
+4	algo <3
+4	tlavesulas <3
+4	dime una chiste lol
+4	dime una broma lol
+4	dime una algo lol
+4	dime una tlavesulas lol
+4	dime una chiste gg
+4	dime una broma gg
+4	dime una algo gg
+4	dime una tlavesulas gg
+4	dime una chiste we
+4	dime una broma we
+4	dime una algo we
+4	dime una tlavesulas we
+4	dime una chiste :v
+4	dime una broma :v
+4	dime una algo :v
+4	dime una tlavesulas :v
+4	dime una chiste <3
+4	dime una broma <3
+4	dime una algo <3
+4	dime una tlavesulas <3
+4	di una chiste lol
+4	di una broma lol
+4	di una algo lol
+4	di una tlavesulas lol
+4	di una chiste gg
+4	di una broma gg
+4	di una algo gg
+4	di una tlavesulas gg
+4	di una chiste we
+4	di una broma we
+4	di una algo we
+4	di una tlavesulas we
+4	di una chiste :v
+4	di una broma :v
+4	di una algo :v
+4	di una tlavesulas :v
+4	di una chiste <3
+4	di una broma <3
+4	di una algo <3
+4	di una tlavesulas <3
+4	haz una chiste lol
+4	haz una broma lol
+4	haz una algo lol
+4	haz una tlavesulas lol
+4	haz una chiste gg
+4	haz una broma gg
+4	haz una algo gg
+4	haz una tlavesulas gg
+4	haz una chiste we
+4	haz una broma we
+4	haz una algo we
+4	haz una tlavesulas we
+4	haz una chiste :v
+4	haz una broma :v
+4	haz una algo :v
+4	haz una tlavesulas :v
+4	haz una chiste <3
+4	haz una broma <3
+4	haz una algo <3
+4	haz una tlavesulas <3
+4	cuentame una chiste lol
+4	cuentame una broma lol
+4	cuentame una algo lol
+4	cuentame una tlavesulas lol
+4	cuentame una chiste gg
+4	cuentame una broma gg
+4	cuentame una algo gg
+4	cuentame una tlavesulas gg
+4	cuentame una chiste we
+4	cuentame una broma we
+4	cuentame una algo we
+4	cuentame una tlavesulas we
+4	cuentame una chiste :v
+4	cuentame una broma :v
+4	cuentame una algo :v
+4	cuentame una tlavesulas :v
+4	cuentame una chiste <3
+4	cuentame una broma <3
+4	cuentame una algo <3
+4	cuentame una tlavesulas <3
+4	inventa una chiste lol
+4	inventa una broma lol
+4	inventa una algo lol
+4	inventa una tlavesulas lol
+4	inventa una chiste gg
+4	inventa una broma gg
+4	inventa una algo gg
+4	inventa una tlavesulas gg
+4	inventa una chiste we
+4	inventa una broma we
+4	inventa una algo we
+4	inventa una tlavesulas we
+4	inventa una chiste :v
+4	inventa una broma :v
+4	inventa una algo :v
+4	inventa una tlavesulas :v
+4	inventa una chiste <3
+4	inventa una broma <3
+4	inventa una algo <3
+4	inventa una tlavesulas <3
+4	muere una chiste lol
+4	muere una broma lol
+4	muere una algo lol
+4	muere una tlavesulas lol
+4	muere una chiste gg
+4	muere una broma gg
+4	muere una algo gg
+4	muere una tlavesulas gg
+4	muere una chiste we
+4	muere una broma we
+4	muere una algo we
+4	muere una tlavesulas we
+4	muere una chiste :v
+4	muere una broma :v
+4	muere una algo :v
+4	muere una tlavesulas :v
+4	muere una chiste <3
+4	muere una broma <3
+4	muere una algo <3
+4	muere una tlavesulas <3
+4	canta una chiste lol
+4	canta una broma lol
+4	canta una algo lol
+4	canta una tlavesulas lol
+4	canta una chiste gg
+4	canta una broma gg
+4	canta una algo gg
+4	canta una tlavesulas gg
+4	canta una chiste we
+4	canta una broma we
+4	canta una algo we
+4	canta una tlavesulas we
+4	canta una chiste :v
+4	canta una broma :v
+4	canta una algo :v
+4	canta una tlavesulas :v
+4	canta una chiste <3
+4	canta una broma <3
+4	canta una algo <3
+4	canta una tlavesulas <3
+4	habla una chiste lol
+4	habla una broma lol
+4	habla una algo lol
+4	habla una tlavesulas lol
+4	habla una chiste gg
+4	habla una broma gg
+4	habla una algo gg
+4	habla una tlavesulas gg
+4	habla una chiste we
+4	habla una broma we
+4	habla una algo we
+4	habla una tlavesulas we
+4	habla una chiste :v
+4	habla una broma :v
+4	habla una algo :v
+4	habla una tlavesulas :v
+4	habla una chiste <3
+4	habla una broma <3
+4	habla una algo <3
+4	habla una tlavesulas <3
+4	piensa una chiste lol
+4	piensa una broma lol
+4	piensa una algo lol
+4	piensa una tlavesulas lol
+4	piensa una chiste gg
+4	piensa una broma gg
+4	piensa una algo gg
+4	piensa una tlavesulas gg
+4	piensa una chiste we
+4	piensa una broma we
+4	piensa una algo we
+4	piensa una tlavesulas we
+4	piensa una chiste :v
+4	piensa una broma :v
+4	piensa una algo :v
+4	piensa una tlavesulas :v
+4	piensa una chiste <3
+4	piensa una broma <3
+4	piensa una algo <3
+4	piensa una tlavesulas <3
+4	inventa una chiste lol
+4	inventa una broma lol
+4	inventa una algo lol
+4	inventa una tlavesulas lol
+4	inventa una chiste gg
+4	inventa una broma gg
+4	inventa una algo gg
+4	inventa una tlavesulas gg
+4	inventa una chiste we
+4	inventa una broma we
+4	inventa una algo we
+4	inventa una tlavesulas we
+4	inventa una chiste :v
+4	inventa una broma :v
+4	inventa una algo :v
+4	inventa una tlavesulas :v
+4	inventa una chiste <3
+4	inventa una broma <3
+4	inventa una algo <3
+4	inventa una tlavesulas <3
