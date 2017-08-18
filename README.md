@@ -31,3 +31,17 @@ $ python intent_ner.py
 ```bash
 $ python intent_trainer.py
 ``` 
+ ## Documentacion intent_trainer.py
+
+
+- De /ner/intent_trainer.py
+```python
+obtener_respuesta(frase):
+```
+
+- recibe como parametro frase como un string
+- devuelve un string '0' si la pregunta es "Quien eres?"
+- devuelve un string '1' si la pregunte es "De donde vienes?"
+- devielve un string '2' si la pregunta es "Hola bot"
+- devielve un string '3' si la pregunta es "no endiendo tu pregunta"
+``` 
